@@ -1,0 +1,129 @@
+Experiment for the values of:
+p = 0.4
+c = 7.74467
+d = 4.74213
+q = 133499
+Phase 1:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 2:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 3:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 4:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 5:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 6:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 7:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 8:
+Number of false negatives :
+0
+Number of false positives :
+3
+Probability of false positives :
+0.03
+False Positive Elements :
+tour
+chivalrous
+bite
+
+Phase 9:
+Number of false negatives :
+0
+Number of false positives :
+1
+Probability of false positives :
+0.01
+False Positive Elements :
+tour
+chivalrous
+bite
+agreement
+
+Phase 10:
+Number of false negatives :
+0
+Number of false positives :
+17
+Probability of false positives :
+0.17
+False Positive Elements :
+tour
+chivalrous
+bite
+agreement
+unhealthy
+join
+one
+pikachu
+ready
+hard
+judge
+boot
+sassy
+unnatural
+trucks
+protective
+debonair
+nonstop
+frogs
+scribble
+sleepy
+
+Number of false negatives:
+0
+Number of false positives:
+21
+Probability of false positives:
+0.021

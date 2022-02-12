@@ -1,0 +1,195 @@
+Experiment for the values of:
+p = 0.4
+c = 8.81101
+d = 6.64062
+q = 152597
+Phase 1:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 2:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 3:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 4:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 5:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 6:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 7:
+Number of false negatives :
+0
+Number of false positives :
+1
+Probability of false positives :
+0.01
+False Positive Elements :
+number
+
+Phase 8:
+Number of false negatives :
+0
+Number of false positives :
+6
+Probability of false positives :
+0.06
+False Positive Elements :
+number
+queen
+relax
+silly
+stampede
+vein
+punishment
+
+Phase 9:
+Number of false negatives :
+0
+Number of false positives :
+21
+Probability of false positives :
+0.21
+False Positive Elements :
+number
+queen
+relax
+silly
+stampede
+vein
+punishment
+please
+eggs
+hurry
+clean
+cayenne
+start
+announce
+sun
+long-term
+cautious
+stereotyped
+poison
+best
+ghost
+sip
+physical
+worry
+famous
+sterile
+recognise
+writing
+
+Phase 10:
+Number of false negatives :
+0
+Number of false positives :
+30
+Probability of false positives :
+0.3
+False Positive Elements :
+number
+queen
+relax
+silly
+stampede
+vein
+punishment
+please
+eggs
+hurry
+clean
+cayenne
+start
+announce
+sun
+long-term
+cautious
+stereotyped
+poison
+best
+ghost
+sip
+physical
+worry
+famous
+sterile
+recognise
+writing
+cable
+station
+tin
+pikachu
+periodic
+noxious
+charmander
+judge
+mountainous
+blind
+puffy
+phone
+visitor
+shelf
+inherent
+exotic
+aberrant
+giant
+look
+destruction
+useless
+exclusive
+humdrum
+various
+chief
+icy
+acrid
+health
+cause
+plausible
+
+Number of false negatives:
+0
+Number of false positives:
+58
+Probability of false positives:
+0.058

@@ -1,0 +1,334 @@
+Experiment for the values of:
+p = 0.4
+c = 2.02911
+d = 3.18209
+q = 38149
+Phase 1:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 2:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 3:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 4:
+Number of false negatives :
+0
+Number of false positives :
+1
+Probability of false positives :
+0.01
+False Positive Elements :
+curl
+
+Phase 5:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+curl
+
+Phase 6:
+Number of false negatives :
+0
+Number of false positives :
+7
+Probability of false positives :
+0.07
+False Positive Elements :
+curl
+ajar
+squalid
+nippy
+rough
+ticket
+crawl
+cream
+
+Phase 7:
+Number of false negatives :
+0
+Number of false positives :
+8
+Probability of false positives :
+0.08
+False Positive Elements :
+curl
+ajar
+squalid
+nippy
+rough
+ticket
+crawl
+cream
+science
+coat
+flippant
+observe
+arch
+violent
+wriggle
+bloody
+
+Phase 8:
+Number of false negatives :
+0
+Number of false positives :
+19
+Probability of false positives :
+0.19
+False Positive Elements :
+curl
+ajar
+squalid
+nippy
+rough
+ticket
+crawl
+cream
+science
+coat
+flippant
+observe
+arch
+violent
+wriggle
+bloody
+queen
+relax
+legal
+mean
+lowly
+nation
+accept
+camp
+squirrel
+prickly
+silly
+flat
+thinkable
+general
+heartbreaking
+business
+rule
+punishment
+foot
+
+Phase 9:
+Number of false negatives :
+0
+Number of false positives :
+31
+Probability of false positives :
+0.31
+False Positive Elements :
+curl
+ajar
+squalid
+nippy
+rough
+ticket
+crawl
+cream
+science
+coat
+flippant
+observe
+arch
+violent
+wriggle
+bloody
+queen
+relax
+legal
+mean
+lowly
+nation
+accept
+camp
+squirrel
+prickly
+silly
+flat
+thinkable
+general
+heartbreaking
+business
+rule
+punishment
+foot
+spotty
+heal
+bomb
+gifted
+cayenne
+unkempt
+announce
+sun
+bikes
+ink
+religion
+ignorant
+glue
+overflow
+past
+preach
+kindly
+bostonian
+drink
+syrup
+physical
+notebook
+awake
+famous
+practice
+pumped
+determined
+fish
+nut
+fragile
+utopian
+
+Phase 10:
+Number of false negatives :
+0
+Number of false positives :
+40
+Probability of false positives :
+0.4
+False Positive Elements :
+curl
+ajar
+squalid
+nippy
+rough
+ticket
+crawl
+cream
+science
+coat
+flippant
+observe
+arch
+violent
+wriggle
+bloody
+queen
+relax
+legal
+mean
+lowly
+nation
+accept
+camp
+squirrel
+prickly
+silly
+flat
+thinkable
+general
+heartbreaking
+business
+rule
+punishment
+foot
+spotty
+heal
+bomb
+gifted
+cayenne
+unkempt
+announce
+sun
+bikes
+ink
+religion
+ignorant
+glue
+overflow
+past
+preach
+kindly
+bostonian
+drink
+syrup
+physical
+notebook
+awake
+famous
+practice
+pumped
+determined
+fish
+nut
+fragile
+utopian
+cable
+tin
+one
+noxious
+ready
+money
+worm
+knock
+delicate
+boot
+shelter
+puffy
+serve
+hover
+visitor
+numerous
+loaf
+analyze
+breathe
+odd
+waves
+thunder
+unadvised
+flanders
+bottle
+possessive
+humdrum
+governor
+various
+spandex
+courageous
+chief
+market
+icy
+parsimonious
+nonstop
+acrid
+agreeable
+health
+faithful
+
+Number of false negatives:
+0
+Number of false positives:
+106
+Probability of false positives:
+0.106

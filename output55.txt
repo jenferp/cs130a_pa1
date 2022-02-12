@@ -1,0 +1,386 @@
+Experiment for the values of:
+p = 0.4
+c = 2.96327
+d = 3.60817
+q = 38149
+Phase 1:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 2:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 3:
+Number of false negatives :
+0
+Number of false positives :
+1
+Probability of false positives :
+0.01
+False Positive Elements :
+talk
+
+Phase 4:
+Number of false negatives :
+0
+Number of false positives :
+1
+Probability of false positives :
+0.01
+False Positive Elements :
+talk
+seed
+
+Phase 5:
+Number of false negatives :
+0
+Number of false positives :
+3
+Probability of false positives :
+0.03
+False Positive Elements :
+talk
+seed
+credit
+tidy
+thick
+
+Phase 6:
+Number of false negatives :
+0
+Number of false positives :
+8
+Probability of false positives :
+0.08
+False Positive Elements :
+talk
+seed
+credit
+tidy
+thick
+bawdy
+nippy
+tart
+obsequious
+temper
+vegetable
+string
+steel
+
+Phase 7:
+Number of false negatives :
+0
+Number of false positives :
+15
+Probability of false positives :
+0.15
+False Positive Elements :
+talk
+seed
+credit
+tidy
+thick
+bawdy
+nippy
+tart
+obsequious
+temper
+vegetable
+string
+steel
+grin
+verse
+addicted
+observe
+stop
+retire
+reflect
+arch
+wash
+abashed
+smooth
+super
+treat
+bored
+girls
+
+Phase 8:
+Number of false negatives :
+0
+Number of false positives :
+20
+Probability of false positives :
+0.2
+False Positive Elements :
+talk
+seed
+credit
+tidy
+thick
+bawdy
+nippy
+tart
+obsequious
+temper
+vegetable
+string
+steel
+grin
+verse
+addicted
+observe
+stop
+retire
+reflect
+arch
+wash
+abashed
+smooth
+super
+treat
+bored
+girls
+gaze
+fertile
+dime
+relax
+mean
+spark
+hop
+wind
+sort
+accept
+things
+makeshift
+prickly
+overwrought
+tour
+possess
+activity
+stamp
+store
+sad
+
+Phase 9:
+Number of false negatives :
+0
+Number of false positives :
+29
+Probability of false positives :
+0.29
+False Positive Elements :
+talk
+seed
+credit
+tidy
+thick
+bawdy
+nippy
+tart
+obsequious
+temper
+vegetable
+string
+steel
+grin
+verse
+addicted
+observe
+stop
+retire
+reflect
+arch
+wash
+abashed
+smooth
+super
+treat
+bored
+girls
+gaze
+fertile
+dime
+relax
+mean
+spark
+hop
+wind
+sort
+accept
+things
+makeshift
+prickly
+overwrought
+tour
+possess
+activity
+stamp
+store
+sad
+unlock
+pig
+eggs
+challenge
+hurry
+heal
+feeling
+puzzled
+sedate
+old
+bikes
+damage
+ink
+cautious
+vanish
+brave
+bostonian
+holiday
+channel
+ghost
+sip
+groan
+awake
+worry
+recognise
+fragile
+utopian
+condition
+well-made
+
+Phase 10:
+Number of false negatives :
+0
+Number of false positives :
+34
+Probability of false positives :
+0.34
+False Positive Elements :
+talk
+seed
+credit
+tidy
+thick
+bawdy
+nippy
+tart
+obsequious
+temper
+vegetable
+string
+steel
+grin
+verse
+addicted
+observe
+stop
+retire
+reflect
+arch
+wash
+abashed
+smooth
+super
+treat
+bored
+girls
+gaze
+fertile
+dime
+relax
+mean
+spark
+hop
+wind
+sort
+accept
+things
+makeshift
+prickly
+overwrought
+tour
+possess
+activity
+stamp
+store
+sad
+unlock
+pig
+eggs
+challenge
+hurry
+heal
+feeling
+puzzled
+sedate
+old
+bikes
+damage
+ink
+cautious
+vanish
+brave
+bostonian
+holiday
+channel
+ghost
+sip
+groan
+awake
+worry
+recognise
+fragile
+utopian
+condition
+well-made
+unhealthy
+cable
+station
+pikachu
+noxious
+pass
+hard
+mist
+spiffy
+boot
+shelter
+blind
+shelf
+inherent
+exotic
+town
+nose
+breathe
+waves
+unadvised
+fireman
+top
+possessive
+trucks
+protective
+acidic
+various
+scribble
+agreeable
+hideous
+sleepy
+faithful
+cause
+plausible
+
+Number of false negatives:
+0
+Number of false positives:
+111
+Probability of false positives:
+0.111

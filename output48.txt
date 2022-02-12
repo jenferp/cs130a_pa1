@@ -1,0 +1,247 @@
+Experiment for the values of:
+p = 0.4
+c = 2.45863
+d = 2.16155
+q = 38149
+Phase 1:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 2:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 3:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 4:
+Number of false negatives :
+0
+Number of false positives :
+1
+Probability of false positives :
+0.01
+False Positive Elements :
+uneven
+
+Phase 5:
+Number of false negatives :
+0
+Number of false positives :
+3
+Probability of false positives :
+0.03
+False Positive Elements :
+uneven
+subdued
+polite
+tidy
+
+Phase 6:
+Number of false negatives :
+0
+Number of false positives :
+6
+Probability of false positives :
+0.06
+False Positive Elements :
+uneven
+subdued
+polite
+tidy
+nippy
+obsequious
+sticky
+allow
+wing
+steel
+
+Phase 7:
+Number of false negatives :
+0
+Number of false positives :
+6
+Probability of false positives :
+0.06
+False Positive Elements :
+uneven
+subdued
+polite
+tidy
+nippy
+obsequious
+sticky
+allow
+wing
+steel
+grin
+retire
+number
+babies
+super
+defiant
+
+Phase 8:
+Number of false negatives :
+0
+Number of false positives :
+6
+Probability of false positives :
+0.06
+False Positive Elements :
+uneven
+subdued
+polite
+tidy
+nippy
+obsequious
+sticky
+allow
+wing
+steel
+grin
+retire
+number
+babies
+super
+defiant
+gaze
+dime
+mean
+wind
+street
+mix
+
+Phase 9:
+Number of false negatives :
+0
+Number of false positives :
+15
+Probability of false positives :
+0.15
+False Positive Elements :
+uneven
+subdued
+polite
+tidy
+nippy
+obsequious
+sticky
+allow
+wing
+steel
+grin
+retire
+number
+babies
+super
+defiant
+gaze
+dime
+mean
+wind
+street
+mix
+eggs
+hurry
+heal
+puzzled
+beg
+old
+damage
+ink
+long-term
+vanish
+cats
+bostonian
+holiday
+clip
+awake
+
+Phase 10:
+Number of false negatives :
+0
+Number of false positives :
+19
+Probability of false positives :
+0.19
+False Positive Elements :
+uneven
+subdued
+polite
+tidy
+nippy
+obsequious
+sticky
+allow
+wing
+steel
+grin
+retire
+number
+babies
+super
+defiant
+gaze
+dime
+mean
+wind
+street
+mix
+eggs
+hurry
+heal
+puzzled
+beg
+old
+damage
+ink
+long-term
+vanish
+cats
+bostonian
+holiday
+clip
+awake
+umbrella
+station
+noxious
+pass
+mist
+delicate
+boot
+hover
+breathe
+odd
+waves
+bottle
+fireman
+trucks
+protective
+acidic
+icy
+scribble
+agreeable
+
+Number of false negatives:
+0
+Number of false positives:
+56
+Probability of false positives:
+0.056

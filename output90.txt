@@ -1,0 +1,109 @@
+Experiment for the values of:
+p = 0.4
+c = 8.0636
+d = 4.95427
+q = 152597
+Phase 1:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 2:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 3:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 4:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 5:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 6:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 7:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 8:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 9:
+Number of false negatives :
+0
+Number of false positives :
+2
+Probability of false positives :
+0.02
+False Positive Elements :
+snobbish
+channel
+
+Phase 10:
+Number of false negatives :
+0
+Number of false positives :
+4
+Probability of false positives :
+0.04
+False Positive Elements :
+snobbish
+channel
+ready
+obtain
+squeak
+semaphore
+
+Number of false negatives:
+0
+Number of false positives:
+6
+Probability of false positives:
+0.006

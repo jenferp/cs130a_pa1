@@ -1,0 +1,532 @@
+Experiment for the values of:
+p = 0.4
+c = 6.66557
+d = 8.20648
+q = 114451
+Phase 1:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 2:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 3:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 4:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 5:
+Number of false negatives :
+0
+Number of false positives :
+2
+Probability of false positives :
+0.02
+False Positive Elements :
+license
+plover
+
+Phase 6:
+Number of false negatives :
+0
+Number of false positives :
+7
+Probability of false positives :
+0.07
+False Positive Elements :
+license
+plover
+squalid
+weigh
+bliss
+macaroni
+ticket
+stint
+dark
+
+Phase 7:
+Number of false negatives :
+0
+Number of false positives :
+25
+Probability of false positives :
+0.25
+False Positive Elements :
+license
+plover
+squalid
+weigh
+bliss
+macaroni
+ticket
+stint
+dark
+successful
+fairies
+sweater
+misty
+insect
+leather
+retire
+aback
+arch
+ball
+ruthless
+premium
+shiver
+steep
+horrible
+mushy
+violent
+pastoral
+super
+plant
+immense
+assorted
+synthesizer
+blue-eyed
+agonizing
+
+Phase 8:
+Number of false negatives :
+0
+Number of false positives :
+34
+Probability of false positives :
+0.34
+False Positive Elements :
+license
+plover
+squalid
+weigh
+bliss
+macaroni
+ticket
+stint
+dark
+successful
+fairies
+sweater
+misty
+insect
+leather
+retire
+aback
+arch
+ball
+ruthless
+premium
+shiver
+steep
+horrible
+mushy
+violent
+pastoral
+super
+plant
+immense
+assorted
+synthesizer
+blue-eyed
+agonizing
+queen
+bedroom
+distinct
+crowded
+gaze
+fertile
+secretive
+swim
+relax
+difficult
+mean
+feigned
+level
+hop
+snails
+glow
+undress
+short
+nation
+steady
+holistic
+street
+program
+accept
+things
+makeshift
+prickly
+overwrought
+stampede
+compete
+mix
+object
+punishment
+sad
+
+Phase 9:
+Number of false negatives :
+0
+Number of false positives :
+51
+Probability of false positives :
+0.51
+False Positive Elements :
+license
+plover
+squalid
+weigh
+bliss
+macaroni
+ticket
+stint
+dark
+successful
+fairies
+sweater
+misty
+insect
+leather
+retire
+aback
+arch
+ball
+ruthless
+premium
+shiver
+steep
+horrible
+mushy
+violent
+pastoral
+super
+plant
+immense
+assorted
+synthesizer
+blue-eyed
+agonizing
+queen
+bedroom
+distinct
+crowded
+gaze
+fertile
+secretive
+swim
+relax
+difficult
+mean
+feigned
+level
+hop
+snails
+glow
+undress
+short
+nation
+steady
+holistic
+street
+program
+accept
+things
+makeshift
+prickly
+overwrought
+stampede
+compete
+mix
+object
+punishment
+sad
+onerous
+direful
+pig
+eggs
+poised
+feeling
+clean
+pollution
+puzzled
+beg
+start
+old
+sun
+labored
+snobbish
+long-term
+vanish
+yam
+sail
+overflow
+past
+design
+school
+scratch
+six
+agreement
+stereotyped
+manage
+preach
+kindly
+bostonian
+drink
+turkey
+scent
+monkey
+sip
+cap
+ashamed
+notebook
+awake
+worry
+famous
+practice
+determined
+fish
+nut
+recognise
+fragile
+writing
+well-made
+far-flung
+
+Phase 10:
+Number of false negatives :
+0
+Number of false positives :
+80
+Probability of false positives :
+0.8
+False Positive Elements :
+license
+plover
+squalid
+weigh
+bliss
+macaroni
+ticket
+stint
+dark
+successful
+fairies
+sweater
+misty
+insect
+leather
+retire
+aback
+arch
+ball
+ruthless
+premium
+shiver
+steep
+horrible
+mushy
+violent
+pastoral
+super
+plant
+immense
+assorted
+synthesizer
+blue-eyed
+agonizing
+queen
+bedroom
+distinct
+crowded
+gaze
+fertile
+secretive
+swim
+relax
+difficult
+mean
+feigned
+level
+hop
+snails
+glow
+undress
+short
+nation
+steady
+holistic
+street
+program
+accept
+things
+makeshift
+prickly
+overwrought
+stampede
+compete
+mix
+object
+punishment
+sad
+onerous
+direful
+pig
+eggs
+poised
+feeling
+clean
+pollution
+puzzled
+beg
+start
+old
+sun
+labored
+snobbish
+long-term
+vanish
+yam
+sail
+overflow
+past
+design
+school
+scratch
+six
+agreement
+stereotyped
+manage
+preach
+kindly
+bostonian
+drink
+turkey
+scent
+monkey
+sip
+cap
+ashamed
+notebook
+awake
+worry
+famous
+practice
+determined
+fish
+nut
+recognise
+fragile
+writing
+well-made
+far-flung
+unhealthy
+cable
+join
+station
+tin
+one
+monitor
+pikachu
+periodic
+noxious
+ready
+money
+numberless
+rest
+hard
+blastoid
+judge
+mist
+mountainous
+painful
+spiffy
+obtain
+delicate
+boot
+shelter
+blind
+puffy
+phone
+serve
+hover
+visitor
+sassy
+shelf
+inherent
+unnatural
+exotic
+loaf
+aberrant
+giant
+nose
+gravity
+analyze
+bit
+breathe
+odd
+signal
+waves
+hummingbird
+thunder
+unadvised
+flanders
+destruction
+female
+bottle
+fireman
+seashore
+possessive
+exclusive
+humdrum
+trucks
+squeak
+strange
+protective
+lie
+acidic
+various
+courageous
+debonair
+parsimonious
+nonstop
+frogs
+scribble
+acrid
+agreeable
+health
+sleepy
+faithful
+heady
+cause
+plausible
+
+Number of false negatives:
+0
+Number of false positives:
+199
+Probability of false positives:
+0.199

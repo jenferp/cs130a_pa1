@@ -1,0 +1,267 @@
+Experiment for the values of:
+p = 0.4
+c = 2.49792
+d = 2.53869
+q = 38149
+Phase 1:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 2:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 3:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 4:
+Number of false negatives :
+0
+Number of false positives :
+1
+Probability of false positives :
+0.01
+False Positive Elements :
+fantastic
+
+Phase 5:
+Number of false negatives :
+0
+Number of false positives :
+1
+Probability of false positives :
+0.01
+False Positive Elements :
+fantastic
+fix
+
+Phase 6:
+Number of false negatives :
+0
+Number of false positives :
+4
+Probability of false positives :
+0.04
+False Positive Elements :
+fantastic
+fix
+crawl
+bustling
+nebulous
+cream
+
+Phase 7:
+Number of false negatives :
+0
+Number of false positives :
+8
+Probability of false positives :
+0.08
+False Positive Elements :
+fantastic
+fix
+crawl
+bustling
+nebulous
+cream
+moldy
+ruthless
+violent
+tablet
+smooth
+plant
+immense
+assorted
+
+Phase 8:
+Number of false negatives :
+0
+Number of false positives :
+10
+Probability of false positives :
+0.1
+False Positive Elements :
+fantastic
+fix
+crawl
+bustling
+nebulous
+cream
+moldy
+ruthless
+violent
+tablet
+smooth
+plant
+immense
+assorted
+gaze
+relax
+legal
+snails
+lowly
+vacation
+nation
+general
+heartbreaking
+store
+
+Phase 9:
+Number of false negatives :
+0
+Number of false positives :
+23
+Probability of false positives :
+0.23
+False Positive Elements :
+fantastic
+fix
+crawl
+bustling
+nebulous
+cream
+moldy
+ruthless
+violent
+tablet
+smooth
+plant
+immense
+assorted
+gaze
+relax
+legal
+snails
+lowly
+vacation
+nation
+general
+heartbreaking
+store
+spotty
+pig
+eggs
+heal
+feeling
+cayenne
+unkempt
+start
+old
+sun
+religion
+design
+six
+agreement
+kindly
+bostonian
+drink
+scent
+syndicate
+famous
+pumped
+fish
+fragile
+
+Phase 10:
+Number of false negatives :
+0
+Number of false positives :
+25
+Probability of false positives :
+0.25
+False Positive Elements :
+fantastic
+fix
+crawl
+bustling
+nebulous
+cream
+moldy
+ruthless
+violent
+tablet
+smooth
+plant
+immense
+assorted
+gaze
+relax
+legal
+snails
+lowly
+vacation
+nation
+general
+heartbreaking
+store
+spotty
+pig
+eggs
+heal
+feeling
+cayenne
+unkempt
+start
+old
+sun
+religion
+design
+six
+agreement
+kindly
+bostonian
+drink
+scent
+syndicate
+famous
+pumped
+fish
+fragile
+cable
+one
+pikachu
+judge
+mist
+mountainous
+knock
+boot
+shelter
+hover
+numerous
+loaf
+giant
+analyze
+breathe
+waves
+thunder
+bottle
+seashore
+strange
+various
+courageous
+chief
+icy
+health
+
+Number of false negatives:
+0
+Number of false positives:
+72
+Probability of false positives:
+0.072

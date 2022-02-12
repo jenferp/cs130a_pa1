@@ -1,0 +1,417 @@
+Experiment for the values of:
+p = 0.4
+c = 3.00206
+d = 5.63136
+q = 57221
+Phase 1:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 2:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 3:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 4:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 5:
+Number of false negatives :
+0
+Number of false positives :
+2
+Probability of false positives :
+0.02
+False Positive Elements :
+achiever
+berserk
+
+Phase 6:
+Number of false negatives :
+0
+Number of false positives :
+10
+Probability of false positives :
+0.1
+False Positive Elements :
+achiever
+berserk
+purpose
+plane
+squalid
+nippy
+sisters
+sea
+coast
+jellyfish
+duck
+spill
+
+Phase 7:
+Number of false negatives :
+0
+Number of false positives :
+8
+Probability of false positives :
+0.08
+False Positive Elements :
+achiever
+berserk
+purpose
+plane
+squalid
+nippy
+sisters
+sea
+coast
+jellyfish
+duck
+spill
+fairies
+stop
+spiky
+terrible
+shiver
+violent
+wriggle
+assorted
+
+Phase 8:
+Number of false negatives :
+0
+Number of false positives :
+30
+Probability of false positives :
+0.3
+False Positive Elements :
+achiever
+berserk
+purpose
+plane
+squalid
+nippy
+sisters
+sea
+coast
+jellyfish
+duck
+spill
+fairies
+stop
+spiky
+terrible
+shiver
+violent
+wriggle
+assorted
+afternoon
+unique
+attraction
+distinct
+swim
+legal
+mean
+feigned
+somber
+short
+oatmeal
+skip
+street
+weather
+program
+flat
+women
+general
+possess
+flavor
+mix
+business
+rule
+object
+activity
+concerned
+bite
+basketball
+auspicious
+daffy
+
+Phase 9:
+Number of false negatives :
+0
+Number of false positives :
+46
+Probability of false positives :
+0.46
+False Positive Elements :
+achiever
+berserk
+purpose
+plane
+squalid
+nippy
+sisters
+sea
+coast
+jellyfish
+duck
+spill
+fairies
+stop
+spiky
+terrible
+shiver
+violent
+wriggle
+assorted
+afternoon
+unique
+attraction
+distinct
+swim
+legal
+mean
+feigned
+somber
+short
+oatmeal
+skip
+street
+weather
+program
+flat
+women
+general
+possess
+flavor
+mix
+business
+rule
+object
+activity
+concerned
+bite
+basketball
+auspicious
+daffy
+please
+onerous
+unlock
+direful
+pig
+eggs
+poised
+feeling
+clean
+beg
+nerve
+sedate
+old
+announce
+ink
+long-term
+cautious
+refuse
+religion
+ignorant
+glue
+overflow
+past
+cats
+school
+uppity
+scratch
+lethal
+six
+kindly
+brave
+syrup
+best
+monkey
+physical
+ashamed
+groan
+practice
+pumped
+eight
+sterile
+recognise
+fragile
+writing
+well-made
+far-flung
+
+Phase 10:
+Number of false negatives :
+0
+Number of false positives :
+40
+Probability of false positives :
+0.4
+False Positive Elements :
+achiever
+berserk
+purpose
+plane
+squalid
+nippy
+sisters
+sea
+coast
+jellyfish
+duck
+spill
+fairies
+stop
+spiky
+terrible
+shiver
+violent
+wriggle
+assorted
+afternoon
+unique
+attraction
+distinct
+swim
+legal
+mean
+feigned
+somber
+short
+oatmeal
+skip
+street
+weather
+program
+flat
+women
+general
+possess
+flavor
+mix
+business
+rule
+object
+activity
+concerned
+bite
+basketball
+auspicious
+daffy
+please
+onerous
+unlock
+direful
+pig
+eggs
+poised
+feeling
+clean
+beg
+nerve
+sedate
+old
+announce
+ink
+long-term
+cautious
+refuse
+religion
+ignorant
+glue
+overflow
+past
+cats
+school
+uppity
+scratch
+lethal
+six
+kindly
+brave
+syrup
+best
+monkey
+physical
+ashamed
+groan
+practice
+pumped
+eight
+sterile
+recognise
+fragile
+writing
+well-made
+far-flung
+umbrella
+chubby
+tin
+pikachu
+hard
+blastoid
+mist
+painful
+spiffy
+popcorn
+blind
+puffy
+hover
+visitor
+numerous
+exotic
+town
+gravity
+signal
+waves
+thunder
+destruction
+useless
+fireman
+squeak
+strange
+governor
+protective
+lie
+various
+spandex
+semaphore
+chief
+icy
+parsimonious
+frogs
+agreeable
+hideous
+heady
+plausible
+
+Number of false negatives:
+0
+Number of false positives:
+136
+Probability of false positives:
+0.136

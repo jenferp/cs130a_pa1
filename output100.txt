@@ -1,0 +1,177 @@
+Experiment for the values of:
+p = 0.4
+c = 6.46847
+d = 5.60232
+q = 114451
+Phase 1:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 2:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 3:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 4:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 5:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 6:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 7:
+Number of false negatives :
+0
+Number of false positives :
+2
+Probability of false positives :
+0.02
+False Positive Elements :
+grin
+bright
+
+Phase 8:
+Number of false negatives :
+0
+Number of false positives :
+5
+Probability of false positives :
+0.05
+False Positive Elements :
+grin
+bright
+secretive
+oatmeal
+thinkable
+stamp
+impolite
+
+Phase 9:
+Number of false negatives :
+0
+Number of false positives :
+16
+Probability of false positives :
+0.16
+False Positive Elements :
+grin
+bright
+secretive
+oatmeal
+thinkable
+stamp
+impolite
+pig
+eggs
+challenge
+meal
+heal
+clean
+puzzled
+labored
+bikes
+long-term
+cautious
+own
+lethal
+rebel
+channel
+sip
+
+Phase 10:
+Number of false negatives :
+0
+Number of false positives :
+21
+Probability of false positives :
+0.21
+False Positive Elements :
+grin
+bright
+secretive
+oatmeal
+thinkable
+stamp
+impolite
+pig
+eggs
+challenge
+meal
+heal
+clean
+puzzled
+labored
+bikes
+long-term
+cautious
+own
+lethal
+rebel
+channel
+sip
+join
+monitor
+periodic
+noxious
+money
+numberless
+rest
+mountainous
+popcorn
+shelter
+puffy
+phone
+hover
+town
+hummingbird
+female
+strange
+governor
+icy
+nonstop
+scribble
+
+Number of false negatives:
+0
+Number of false positives:
+44
+Probability of false positives:
+0.044

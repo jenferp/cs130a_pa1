@@ -1,0 +1,113 @@
+Experiment for the values of:
+p = 0.4
+c = 4.43814
+d = 1.76284
+q = 76289
+Phase 1:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 2:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 3:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 4:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 5:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 6:
+Number of false negatives :
+0
+Number of false positives :
+1
+Probability of false positives :
+0.01
+False Positive Elements :
+itch
+
+Phase 7:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+itch
+
+Phase 8:
+Number of false negatives :
+0
+Number of false positives :
+1
+Probability of false positives :
+0.01
+False Positive Elements :
+itch
+careless
+
+Phase 9:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+itch
+careless
+
+Phase 10:
+Number of false negatives :
+0
+Number of false positives :
+4
+Probability of false positives :
+0.04
+False Positive Elements :
+itch
+careless
+unhealthy
+humdrum
+semaphore
+nonstop
+
+Number of false negatives:
+0
+Number of false positives:
+6
+Probability of false positives:
+0.006

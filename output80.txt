@@ -1,0 +1,283 @@
+Experiment for the values of:
+p = 0.4
+c = 8.51178
+d = 7.43827
+q = 152597
+Phase 1:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 2:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 3:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 4:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 5:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 6:
+Number of false negatives :
+0
+Number of false positives :
+3
+Probability of false positives :
+0.03
+False Positive Elements :
+bambi
+hulking
+spare
+
+Phase 7:
+Number of false negatives :
+0
+Number of false positives :
+1
+Probability of false positives :
+0.01
+False Positive Elements :
+bambi
+hulking
+spare
+science
+
+Phase 8:
+Number of false negatives :
+0
+Number of false positives :
+16
+Probability of false positives :
+0.16
+False Positive Elements :
+bambi
+hulking
+spare
+science
+unique
+distinct
+gaze
+secretive
+swim
+difficult
+subsequent
+short
+oatmeal
+camp
+shaggy
+overwrought
+grumpy
+heartbreaking
+punishment
+sad
+
+Phase 9:
+Number of false negatives :
+0
+Number of false positives :
+38
+Probability of false positives :
+0.38
+False Positive Elements :
+bambi
+hulking
+spare
+science
+unique
+distinct
+gaze
+secretive
+swim
+difficult
+subsequent
+short
+oatmeal
+camp
+shaggy
+overwrought
+grumpy
+heartbreaking
+punishment
+sad
+honey
+unlock
+eggs
+heal
+feeling
+clean
+gifted
+puzzled
+nerve
+start
+old
+announce
+ink
+long-term
+cautious
+refuse
+religion
+past
+own
+cats
+uppity
+stereotyped
+manage
+poison
+bostonian
+drink
+syrup
+monkey
+ashamed
+groan
+notebook
+awake
+eight
+nut
+curved
+utopian
+condition
+far-flung
+
+Phase 10:
+Number of false negatives :
+0
+Number of false positives :
+39
+Probability of false positives :
+0.39
+False Positive Elements :
+bambi
+hulking
+spare
+science
+unique
+distinct
+gaze
+secretive
+swim
+difficult
+subsequent
+short
+oatmeal
+camp
+shaggy
+overwrought
+grumpy
+heartbreaking
+punishment
+sad
+honey
+unlock
+eggs
+heal
+feeling
+clean
+gifted
+puzzled
+nerve
+start
+old
+announce
+ink
+long-term
+cautious
+refuse
+religion
+past
+own
+cats
+uppity
+stereotyped
+manage
+poison
+bostonian
+drink
+syrup
+monkey
+ashamed
+groan
+notebook
+awake
+eight
+nut
+curved
+utopian
+condition
+far-flung
+join
+chubby
+station
+one
+monitor
+money
+hard
+blastoid
+mist
+mountainous
+knock
+painful
+spiffy
+obtain
+shelter
+blind
+puffy
+phone
+visitor
+giant
+gravity
+bit
+odd
+signal
+hummingbird
+thunder
+destruction
+useless
+bottle
+fireman
+top
+possessive
+trucks
+lie
+acidic
+semaphore
+debonair
+acrid
+agreeable
+
+Number of false negatives:
+0
+Number of false positives:
+97
+Probability of false positives:
+0.097

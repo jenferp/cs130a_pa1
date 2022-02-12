@@ -1,0 +1,284 @@
+Experiment for the values of:
+p = 0.4
+c = 6.67258
+d = 6.12474
+q = 114451
+Phase 1:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 2:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 3:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 4:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 5:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 6:
+Number of false negatives :
+0
+Number of false positives :
+4
+Probability of false positives :
+0.04
+False Positive Elements :
+weigh
+cheat
+hulking
+sparkling
+
+Phase 7:
+Number of false negatives :
+0
+Number of false positives :
+3
+Probability of false positives :
+0.03
+False Positive Elements :
+weigh
+cheat
+hulking
+sparkling
+reflect
+cheer
+mushy
+
+Phase 8:
+Number of false negatives :
+0
+Number of false positives :
+15
+Probability of false positives :
+0.15
+False Positive Elements :
+weigh
+cheat
+hulking
+sparkling
+reflect
+cheer
+mushy
+bedroom
+swim
+mean
+spark
+vacation
+undress
+blimp
+squirrel
+general
+stampede
+grumpy
+tour
+concerned
+vein
+basketball
+
+Phase 9:
+Number of false negatives :
+0
+Number of false positives :
+28
+Probability of false positives :
+0.28
+False Positive Elements :
+weigh
+cheat
+hulking
+sparkling
+reflect
+cheer
+mushy
+bedroom
+swim
+mean
+spark
+vacation
+undress
+blimp
+squirrel
+general
+stampede
+grumpy
+tour
+concerned
+vein
+basketball
+honey
+unlock
+direful
+heal
+clean
+cayenne
+beg
+nerve
+start
+refuse
+yam
+overflow
+past
+cats
+agreement
+brave
+syrup
+ghost
+scent
+monkey
+groan
+notebook
+famous
+practice
+thrill
+sterile
+adjustment
+condition
+
+Phase 10:
+Number of false negatives :
+0
+Number of false positives :
+50
+Probability of false positives :
+0.5
+False Positive Elements :
+weigh
+cheat
+hulking
+sparkling
+reflect
+cheer
+mushy
+bedroom
+swim
+mean
+spark
+vacation
+undress
+blimp
+squirrel
+general
+stampede
+grumpy
+tour
+concerned
+vein
+basketball
+honey
+unlock
+direful
+heal
+clean
+cayenne
+beg
+nerve
+start
+refuse
+yam
+overflow
+past
+cats
+agreement
+brave
+syrup
+ghost
+scent
+monkey
+groan
+notebook
+famous
+practice
+thrill
+sterile
+adjustment
+condition
+umbrella
+station
+tin
+one
+pikachu
+noxious
+charmander
+numberless
+rest
+blastoid
+yak
+worm
+judge
+mountainous
+knock
+painful
+spiffy
+obtain
+popcorn
+shelter
+puffy
+serve
+visitor
+inherent
+unnatural
+numerous
+loaf
+town
+nose
+destruction
+female
+useless
+bottle
+top
+possessive
+exclusive
+trucks
+squeak
+protective
+lie
+various
+chief
+market
+nonstop
+frogs
+acrid
+health
+sleepy
+cause
+plausible
+
+Number of false negatives:
+0
+Number of false positives:
+100
+Probability of false positives:
+0.1

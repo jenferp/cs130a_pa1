@@ -1,0 +1,541 @@
+Experiment for the values of:
+p = 0.4
+c = 3.58697
+d = 6.17163
+q = 57221
+Phase 1:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 2:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 3:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 4:
+Number of false negatives :
+0
+Number of false positives :
+1
+Probability of false positives :
+0.01
+False Positive Elements :
+bumpy
+
+Phase 5:
+Number of false negatives :
+0
+Number of false positives :
+3
+Probability of false positives :
+0.03
+False Positive Elements :
+bumpy
+credit
+wicked
+berserk
+
+Phase 6:
+Number of false negatives :
+0
+Number of false positives :
+15
+Probability of false positives :
+0.15
+False Positive Elements :
+bumpy
+credit
+wicked
+berserk
+bawdy
+purpose
+squalid
+serum
+copper
+sea
+coast
+black
+guide
+stint
+duck
+act
+spill
+bustling
+nebulous
+
+Phase 7:
+Number of false negatives :
+0
+Number of false positives :
+14
+Probability of false positives :
+0.14
+False Positive Elements :
+bumpy
+credit
+wicked
+berserk
+bawdy
+purpose
+squalid
+serum
+copper
+sea
+coast
+black
+guide
+stint
+duck
+act
+spill
+bustling
+nebulous
+pan
+successful
+fairies
+leather
+stop
+quickest
+ball
+accidental
+bouncy
+violent
+wriggle
+assorted
+spot
+synthesizer
+
+Phase 8:
+Number of false negatives :
+0
+Number of false positives :
+43
+Probability of false positives :
+0.43
+False Positive Elements :
+bumpy
+credit
+wicked
+berserk
+bawdy
+purpose
+squalid
+serum
+copper
+sea
+coast
+black
+guide
+stint
+duck
+act
+spill
+bustling
+nebulous
+pan
+successful
+fairies
+leather
+stop
+quickest
+ball
+accidental
+bouncy
+violent
+wriggle
+assorted
+spot
+synthesizer
+unique
+attraction
+distinct
+secretive
+birds
+swim
+legal
+knife
+mean
+feigned
+somber
+hop
+glow
+vacation
+short
+oatmeal
+skip
+fog
+street
+program
+sort
+accept
+squirrel
+makeshift
+prickly
+flat
+overwrought
+women
+general
+stampede
+possess
+flavor
+mix
+business
+rule
+object
+activity
+concerned
+bite
+basketball
+auspicious
+daffy
+foot
+
+Phase 9:
+Number of false negatives :
+0
+Number of false positives :
+47
+Probability of false positives :
+0.47
+False Positive Elements :
+bumpy
+credit
+wicked
+berserk
+bawdy
+purpose
+squalid
+serum
+copper
+sea
+coast
+black
+guide
+stint
+duck
+act
+spill
+bustling
+nebulous
+pan
+successful
+fairies
+leather
+stop
+quickest
+ball
+accidental
+bouncy
+violent
+wriggle
+assorted
+spot
+synthesizer
+unique
+attraction
+distinct
+secretive
+birds
+swim
+legal
+knife
+mean
+feigned
+somber
+hop
+glow
+vacation
+short
+oatmeal
+skip
+fog
+street
+program
+sort
+accept
+squirrel
+makeshift
+prickly
+flat
+overwrought
+women
+general
+stampede
+possess
+flavor
+mix
+business
+rule
+object
+activity
+concerned
+bite
+basketball
+auspicious
+daffy
+foot
+please
+onerous
+pig
+eggs
+meal
+poised
+feeling
+pollution
+beg
+unkempt
+nerve
+sedate
+old
+announce
+sun
+labored
+cautious
+refuse
+vanish
+religion
+yam
+ignorant
+glue
+overflow
+wry
+past
+cats
+school
+uppity
+scratch
+lethal
+six
+poison
+kindly
+brave
+syrup
+monkey
+physical
+practice
+pumped
+eight
+sterile
+recognise
+writing
+adjustment
+well-made
+far-flung
+
+Phase 10:
+Number of false negatives :
+0
+Number of false positives :
+61
+Probability of false positives :
+0.61
+False Positive Elements :
+bumpy
+credit
+wicked
+berserk
+bawdy
+purpose
+squalid
+serum
+copper
+sea
+coast
+black
+guide
+stint
+duck
+act
+spill
+bustling
+nebulous
+pan
+successful
+fairies
+leather
+stop
+quickest
+ball
+accidental
+bouncy
+violent
+wriggle
+assorted
+spot
+synthesizer
+unique
+attraction
+distinct
+secretive
+birds
+swim
+legal
+knife
+mean
+feigned
+somber
+hop
+glow
+vacation
+short
+oatmeal
+skip
+fog
+street
+program
+sort
+accept
+squirrel
+makeshift
+prickly
+flat
+overwrought
+women
+general
+stampede
+possess
+flavor
+mix
+business
+rule
+object
+activity
+concerned
+bite
+basketball
+auspicious
+daffy
+foot
+please
+onerous
+pig
+eggs
+meal
+poised
+feeling
+pollution
+beg
+unkempt
+nerve
+sedate
+old
+announce
+sun
+labored
+cautious
+refuse
+vanish
+religion
+yam
+ignorant
+glue
+overflow
+wry
+past
+cats
+school
+uppity
+scratch
+lethal
+six
+poison
+kindly
+brave
+syrup
+monkey
+physical
+practice
+pumped
+eight
+sterile
+recognise
+writing
+adjustment
+well-made
+far-flung
+umbrella
+cable
+join
+chubby
+tin
+monitor
+pikachu
+periodic
+pass
+charmander
+rest
+hard
+blastoid
+mist
+mountainous
+spiffy
+popcorn
+delicate
+shelter
+blind
+puffy
+visitor
+sassy
+numerous
+exotic
+town
+aberrant
+giant
+nose
+gravity
+analyze
+signal
+waves
+hummingbird
+thunder
+useless
+fireman
+top
+possessive
+exclusive
+trucks
+squeak
+strange
+governor
+protective
+lie
+acidic
+various
+spandex
+semaphore
+chief
+icy
+parsimonious
+nonstop
+frogs
+agreeable
+health
+hideous
+faithful
+heady
+plausible
+
+Number of false negatives:
+0
+Number of false positives:
+184
+Probability of false positives:
+0.184

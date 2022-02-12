@@ -1,0 +1,246 @@
+Experiment for the values of:
+p = 0.4
+c = 4.78279
+d = 4.36106
+q = 76289
+Phase 1:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 2:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 3:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 4:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 5:
+Number of false negatives :
+0
+Number of false positives :
+2
+Probability of false positives :
+0.02
+False Positive Elements :
+switch
+polite
+
+Phase 6:
+Number of false negatives :
+0
+Number of false positives :
+3
+Probability of false positives :
+0.03
+False Positive Elements :
+switch
+polite
+ajar
+yellow
+cream
+
+Phase 7:
+Number of false negatives :
+0
+Number of false positives :
+7
+Probability of false positives :
+0.07
+False Positive Elements :
+switch
+polite
+ajar
+yellow
+cream
+successful
+coat
+sweater
+terrible
+label
+pastoral
+mixer
+
+Phase 8:
+Number of false negatives :
+0
+Number of false positives :
+8
+Probability of false positives :
+0.08
+False Positive Elements :
+switch
+polite
+ajar
+yellow
+cream
+successful
+coat
+sweater
+terrible
+label
+pastoral
+mixer
+dime
+legal
+holistic
+program
+lean
+activity
+store
+sad
+
+Phase 9:
+Number of false negatives :
+0
+Number of false positives :
+22
+Probability of false positives :
+0.22
+False Positive Elements :
+switch
+polite
+ajar
+yellow
+cream
+successful
+coat
+sweater
+terrible
+label
+pastoral
+mixer
+dime
+legal
+holistic
+program
+lean
+activity
+store
+sad
+please
+eggs
+challenge
+meal
+pollution
+ink
+ignorant
+sail
+uppity
+six
+agreement
+rebel
+turkey
+holiday
+syrup
+channel
+scent
+physical
+practice
+determined
+nut
+utopian
+
+Phase 10:
+Number of false negatives :
+0
+Number of false positives :
+22
+Probability of false positives :
+0.22
+False Positive Elements :
+switch
+polite
+ajar
+yellow
+cream
+successful
+coat
+sweater
+terrible
+label
+pastoral
+mixer
+dime
+legal
+holistic
+program
+lean
+activity
+store
+sad
+please
+eggs
+challenge
+meal
+pollution
+ink
+ignorant
+sail
+uppity
+six
+agreement
+rebel
+turkey
+holiday
+syrup
+channel
+scent
+physical
+practice
+determined
+nut
+utopian
+chubby
+pikachu
+noxious
+ready
+worm
+spiffy
+boot
+phone
+numerous
+giant
+odd
+look
+unadvised
+female
+top
+exclusive
+trucks
+various
+chief
+parsimonious
+scribble
+hideous
+
+Number of false negatives:
+0
+Number of false positives:
+64
+Probability of false positives:
+0.064

@@ -1,0 +1,411 @@
+Experiment for the values of:
+p = 0.4
+c = 5.63136
+d = 6.31948
+q = 95369
+Phase 1:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 2:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 3:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 4:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 5:
+Number of false negatives :
+0
+Number of false positives :
+1
+Probability of false positives :
+0.01
+False Positive Elements :
+file
+
+Phase 6:
+Number of false negatives :
+0
+Number of false positives :
+5
+Probability of false positives :
+0.05
+False Positive Elements :
+file
+bawdy
+reaction
+cabbage
+connect
+gruesome
+
+Phase 7:
+Number of false negatives :
+0
+Number of false positives :
+17
+Probability of false positives :
+0.17
+False Positive Elements :
+file
+bawdy
+reaction
+cabbage
+connect
+gruesome
+false
+daily
+intelligent
+cheer
+terrible
+steep
+quirky
+extra-small
+mushy
+wash
+wriggle
+immense
+assorted
+bored
+soak
+spot
+agonizing
+
+Phase 8:
+Number of false negatives :
+0
+Number of false positives :
+23
+Probability of false positives :
+0.23
+False Positive Elements :
+file
+bawdy
+reaction
+cabbage
+connect
+gruesome
+false
+daily
+intelligent
+cheer
+terrible
+steep
+quirky
+extra-small
+mushy
+wash
+wriggle
+immense
+assorted
+bored
+soak
+spot
+agonizing
+relax
+legal
+difficult
+heron
+spark
+somber
+cherry
+lowly
+bleach
+weak
+weather
+squirrel
+shaggy
+ice
+tour
+heartbreaking
+mix
+rule
+vein
+brawny
+stamp
+foot
+impolite
+
+Phase 9:
+Number of false negatives :
+0
+Number of false positives :
+43
+Probability of false positives :
+0.43
+False Positive Elements :
+file
+bawdy
+reaction
+cabbage
+connect
+gruesome
+false
+daily
+intelligent
+cheer
+terrible
+steep
+quirky
+extra-small
+mushy
+wash
+wriggle
+immense
+assorted
+bored
+soak
+spot
+agonizing
+relax
+legal
+difficult
+heron
+spark
+somber
+cherry
+lowly
+bleach
+weak
+weather
+squirrel
+shaggy
+ice
+tour
+heartbreaking
+mix
+rule
+vein
+brawny
+stamp
+foot
+impolite
+onerous
+honey
+spotty
+eggs
+poised
+feeling
+clean
+pollution
+puzzled
+beg
+announce
+labored
+snobbish
+long-term
+refuse
+ignorant
+sail
+past
+own
+design
+cats
+scratch
+six
+agreement
+stereotyped
+preach
+kindly
+brave
+drink
+holiday
+syrup
+channel
+cap
+ashamed
+famous
+practice
+determined
+fish
+eight
+nut
+ecco2k
+utopian
+condition
+
+Phase 10:
+Number of false negatives :
+0
+Number of false positives :
+56
+Probability of false positives :
+0.56
+False Positive Elements :
+file
+bawdy
+reaction
+cabbage
+connect
+gruesome
+false
+daily
+intelligent
+cheer
+terrible
+steep
+quirky
+extra-small
+mushy
+wash
+wriggle
+immense
+assorted
+bored
+soak
+spot
+agonizing
+relax
+legal
+difficult
+heron
+spark
+somber
+cherry
+lowly
+bleach
+weak
+weather
+squirrel
+shaggy
+ice
+tour
+heartbreaking
+mix
+rule
+vein
+brawny
+stamp
+foot
+impolite
+onerous
+honey
+spotty
+eggs
+poised
+feeling
+clean
+pollution
+puzzled
+beg
+announce
+labored
+snobbish
+long-term
+refuse
+ignorant
+sail
+past
+own
+design
+cats
+scratch
+six
+agreement
+stereotyped
+preach
+kindly
+brave
+drink
+holiday
+syrup
+channel
+cap
+ashamed
+famous
+practice
+determined
+fish
+eight
+nut
+ecco2k
+utopian
+condition
+umbrella
+cable
+join
+one
+pikachu
+periodic
+noxious
+pass
+ready
+charmander
+numberless
+rest
+hard
+mist
+mountainous
+painful
+obtain
+delicate
+puffy
+hover
+shelf
+inherent
+unnatural
+numerous
+exotic
+town
+aberrant
+giant
+gravity
+analyze
+bit
+breathe
+signal
+waves
+look
+hummingbird
+thunder
+unadvised
+bottle
+seashore
+humdrum
+trucks
+squeak
+strange
+lie
+acidic
+various
+debonair
+parsimonious
+nonstop
+frogs
+scribble
+acrid
+health
+faithful
+cause
+
+Number of false negatives:
+0
+Number of false positives:
+145
+Probability of false positives:
+0.145

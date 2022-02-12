@@ -1,0 +1,202 @@
+Experiment for the values of:
+p = 0.4
+c = 8.37368
+d = 6.45756
+q = 152597
+Phase 1:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 2:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 3:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 4:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 5:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 6:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 7:
+Number of false negatives :
+0
+Number of false positives :
+3
+Probability of false positives :
+0.03
+False Positive Elements :
+moldy
+accidental
+tablet
+
+Phase 8:
+Number of false negatives :
+0
+Number of false positives :
+11
+Probability of false positives :
+0.11
+False Positive Elements :
+moldy
+accidental
+tablet
+mean
+spark
+opposite
+wind
+stale
+compete
+possess
+flavor
+brawny
+basketball
+daffy
+
+Phase 9:
+Number of false negatives :
+0
+Number of false positives :
+18
+Probability of false positives :
+0.18
+False Positive Elements :
+moldy
+accidental
+tablet
+mean
+spark
+opposite
+wind
+stale
+compete
+possess
+flavor
+brawny
+basketball
+daffy
+unlock
+poised
+puzzled
+nerve
+labored
+design
+scratch
+six
+drink
+best
+sip
+syndicate
+cap
+practice
+determined
+recognise
+curved
+well-made
+
+Phase 10:
+Number of false negatives :
+0
+Number of false positives :
+20
+Probability of false positives :
+0.2
+False Positive Elements :
+moldy
+accidental
+tablet
+mean
+spark
+opposite
+wind
+stale
+compete
+possess
+flavor
+brawny
+basketball
+daffy
+unlock
+poised
+puzzled
+nerve
+labored
+design
+scratch
+six
+drink
+best
+sip
+syndicate
+cap
+practice
+determined
+recognise
+curved
+well-made
+station
+monitor
+charmander
+blastoid
+yak
+spiffy
+phone
+sassy
+town
+bit
+signal
+waves
+hummingbird
+possessive
+humdrum
+squeak
+debonair
+icy
+health
+sleepy
+
+Number of false negatives:
+0
+Number of false positives:
+52
+Probability of false positives:
+0.052

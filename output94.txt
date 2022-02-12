@@ -1,0 +1,492 @@
+Experiment for the values of:
+p = 0.4
+c = 4.09869
+d = 6.67258
+q = 76289
+Phase 1:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 2:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 3:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 4:
+Number of false negatives :
+0
+Number of false positives :
+1
+Probability of false positives :
+0.01
+False Positive Elements :
+toy
+
+Phase 5:
+Number of false negatives :
+0
+Number of false positives :
+4
+Probability of false positives :
+0.04
+False Positive Elements :
+toy
+system
+complete
+glorious
+cow
+
+Phase 6:
+Number of false negatives :
+0
+Number of false positives :
+6
+Probability of false positives :
+0.06
+False Positive Elements :
+toy
+system
+complete
+glorious
+cow
+cabbage
+fallacious
+bake
+ripe
+skate
+alive
+
+Phase 7:
+Number of false negatives :
+0
+Number of false positives :
+16
+Probability of false positives :
+0.16
+False Positive Elements :
+toy
+system
+complete
+glorious
+cow
+cabbage
+fallacious
+bake
+ripe
+skate
+alive
+daily
+successful
+retire
+shaky
+eatery
+shiver
+label
+fasten
+quirky
+grey
+wash
+pastoral
+stupid
+kick
+solaris
+evasive
+
+Phase 8:
+Number of false negatives :
+0
+Number of false positives :
+36
+Probability of false positives :
+0.36
+False Positive Elements :
+toy
+system
+complete
+glorious
+cow
+cabbage
+fallacious
+bake
+ripe
+skate
+alive
+daily
+successful
+retire
+shaky
+eatery
+shiver
+label
+fasten
+quirky
+grey
+wash
+pastoral
+stupid
+kick
+solaris
+evasive
+afternoon
+gaze
+fertile
+secretive
+birds
+dime
+relax
+scientific
+distribution
+mean
+level
+lowly
+glow
+wind
+short
+blimp
+program
+things
+stale
+squirrel
+prickly
+lean
+whistle
+thinkable
+general
+stampede
+grumpy
+tour
+compete
+flavor
+heartbreaking
+business
+rule
+store
+auspicious
+foot
+
+Phase 9:
+Number of false negatives :
+0
+Number of false positives :
+52
+Probability of false positives :
+0.52
+False Positive Elements :
+toy
+system
+complete
+glorious
+cow
+cabbage
+fallacious
+bake
+ripe
+skate
+alive
+daily
+successful
+retire
+shaky
+eatery
+shiver
+label
+fasten
+quirky
+grey
+wash
+pastoral
+stupid
+kick
+solaris
+evasive
+afternoon
+gaze
+fertile
+secretive
+birds
+dime
+relax
+scientific
+distribution
+mean
+level
+lowly
+glow
+wind
+short
+blimp
+program
+things
+stale
+squirrel
+prickly
+lean
+whistle
+thinkable
+general
+stampede
+grumpy
+tour
+compete
+flavor
+heartbreaking
+business
+rule
+store
+auspicious
+foot
+onerous
+unlock
+pig
+eggs
+challenge
+feeling
+bomb
+pollution
+puzzled
+cayenne
+unkempt
+start
+old
+sun
+bikes
+damage
+ink
+snobbish
+long-term
+yam
+sail
+glue
+overflow
+design
+scratch
+six
+stereotyped
+preach
+brave
+bostonian
+drink
+holiday
+syrup
+channel
+scent
+monkey
+sip
+physical
+syndicate
+clip
+notebook
+famous
+practice
+fish
+eight
+sterile
+recognise
+ecco2k
+fragile
+writing
+adjustment
+condition
+
+Phase 10:
+Number of false negatives :
+0
+Number of false positives :
+54
+Probability of false positives :
+0.54
+False Positive Elements :
+toy
+system
+complete
+glorious
+cow
+cabbage
+fallacious
+bake
+ripe
+skate
+alive
+daily
+successful
+retire
+shaky
+eatery
+shiver
+label
+fasten
+quirky
+grey
+wash
+pastoral
+stupid
+kick
+solaris
+evasive
+afternoon
+gaze
+fertile
+secretive
+birds
+dime
+relax
+scientific
+distribution
+mean
+level
+lowly
+glow
+wind
+short
+blimp
+program
+things
+stale
+squirrel
+prickly
+lean
+whistle
+thinkable
+general
+stampede
+grumpy
+tour
+compete
+flavor
+heartbreaking
+business
+rule
+store
+auspicious
+foot
+onerous
+unlock
+pig
+eggs
+challenge
+feeling
+bomb
+pollution
+puzzled
+cayenne
+unkempt
+start
+old
+sun
+bikes
+damage
+ink
+snobbish
+long-term
+yam
+sail
+glue
+overflow
+design
+scratch
+six
+stereotyped
+preach
+brave
+bostonian
+drink
+holiday
+syrup
+channel
+scent
+monkey
+sip
+physical
+syndicate
+clip
+notebook
+famous
+practice
+fish
+eight
+sterile
+recognise
+ecco2k
+fragile
+writing
+adjustment
+condition
+unhealthy
+cable
+join
+station
+tin
+one
+pikachu
+periodic
+noxious
+charmander
+money
+numberless
+hard
+yak
+worm
+judge
+mist
+painful
+spiffy
+obtain
+delicate
+shelter
+puffy
+hover
+shelf
+loaf
+giant
+gravity
+bit
+signal
+waves
+look
+hummingbird
+thunder
+unadvised
+flanders
+female
+bottle
+top
+seashore
+humdrum
+trucks
+strange
+protective
+acidic
+various
+semaphore
+chief
+market
+parsimonious
+agreeable
+health
+hideous
+sleepy
+
+Number of false negatives:
+0
+Number of false positives:
+169
+Probability of false positives:
+0.169

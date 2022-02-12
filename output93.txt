@@ -1,0 +1,249 @@
+Experiment for the values of:
+p = 0.4
+c = 4.99935
+d = 4.09869
+q = 76289
+Phase 1:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 2:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 3:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 4:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 5:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 6:
+Number of false negatives :
+0
+Number of false positives :
+3
+Probability of false positives :
+0.03
+False Positive Elements :
+gruesome
+skate
+nebulous
+
+Phase 7:
+Number of false negatives :
+0
+Number of false positives :
+4
+Probability of false positives :
+0.04
+False Positive Elements :
+gruesome
+skate
+nebulous
+sweater
+moldy
+shaky
+soak
+
+Phase 8:
+Number of false negatives :
+0
+Number of false positives :
+12
+Probability of false positives :
+0.12
+False Positive Elements :
+gruesome
+skate
+nebulous
+sweater
+moldy
+shaky
+soak
+relax
+feigned
+spark
+level
+things
+squirrel
+makeshift
+prickly
+grumpy
+compete
+heartbreaking
+punishment
+
+Phase 9:
+Number of false negatives :
+0
+Number of false positives :
+26
+Probability of false positives :
+0.26
+False Positive Elements :
+gruesome
+skate
+nebulous
+sweater
+moldy
+shaky
+soak
+relax
+feigned
+spark
+level
+things
+squirrel
+makeshift
+prickly
+grumpy
+compete
+heartbreaking
+punishment
+puzzled
+unkempt
+start
+old
+damage
+ink
+snobbish
+long-term
+past
+uppity
+six
+stereotyped
+rebel
+poison
+preach
+brave
+holiday
+syrup
+syndicate
+notebook
+worry
+famous
+sterile
+writing
+well-made
+far-flung
+
+Phase 10:
+Number of false negatives :
+0
+Number of false positives :
+29
+Probability of false positives :
+0.29
+False Positive Elements :
+gruesome
+skate
+nebulous
+sweater
+moldy
+shaky
+soak
+relax
+feigned
+spark
+level
+things
+squirrel
+makeshift
+prickly
+grumpy
+compete
+heartbreaking
+punishment
+puzzled
+unkempt
+start
+old
+damage
+ink
+snobbish
+long-term
+past
+uppity
+six
+stereotyped
+rebel
+poison
+preach
+brave
+holiday
+syrup
+syndicate
+notebook
+worry
+famous
+sterile
+writing
+well-made
+far-flung
+unhealthy
+umbrella
+station
+tin
+one
+pikachu
+charmander
+hard
+yak
+painful
+shelter
+shelf
+gravity
+bit
+breathe
+hummingbird
+flanders
+fireman
+exclusive
+humdrum
+trucks
+strange
+protective
+various
+semaphore
+chief
+market
+health
+sleepy
+
+Number of false negatives:
+0
+Number of false positives:
+74
+Probability of false positives:
+0.074

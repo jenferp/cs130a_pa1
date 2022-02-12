@@ -1,0 +1,573 @@
+Experiment for the values of:
+p = 0.4
+c = 6.12474
+d = 8.52449
+q = 114451
+Phase 1:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 2:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 3:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 4:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 5:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 6:
+Number of false negatives :
+0
+Number of false positives :
+6
+Probability of false positives :
+0.06
+False Positive Elements :
+parallel
+cheat
+parched
+jellyfish
+nebulous
+sparkling
+
+Phase 7:
+Number of false negatives :
+0
+Number of false positives :
+25
+Probability of false positives :
+0.25
+False Positive Elements :
+parallel
+cheat
+parched
+jellyfish
+nebulous
+sparkling
+false
+answer
+quarter
+fairies
+leather
+aquatic
+reflect
+arch
+ball
+liquid
+cheer
+spiky
+label
+extra-small
+scene
+belong
+tablet
+babies
+super
+kick
+spoof
+treat
+stagnation
+bored
+jam
+
+Phase 8:
+Number of false negatives :
+0
+Number of false positives :
+46
+Probability of false positives :
+0.46
+False Positive Elements :
+parallel
+cheat
+parched
+jellyfish
+nebulous
+sparkling
+false
+answer
+quarter
+fairies
+leather
+aquatic
+reflect
+arch
+ball
+liquid
+cheer
+spiky
+label
+extra-small
+scene
+belong
+tablet
+babies
+super
+kick
+spoof
+treat
+stagnation
+bored
+jam
+bedroom
+afternoon
+crowded
+feeble
+fertile
+secretive
+coal
+dime
+swim
+difficult
+mean
+feigned
+spark
+level
+subsequent
+stravinsky
+vacation
+bleach
+wind
+undress
+oatmeal
+skip
+nation
+steady
+weak
+weather
+accept
+stale
+prickly
+silly
+thinkable
+women
+light
+general
+stampede
+grumpy
+tour
+mix
+business
+activity
+careless
+concerned
+vein
+bite
+store
+basketball
+
+Phase 9:
+Number of false negatives :
+0
+Number of false positives :
+63
+Probability of false positives :
+0.63
+False Positive Elements :
+parallel
+cheat
+parched
+jellyfish
+nebulous
+sparkling
+false
+answer
+quarter
+fairies
+leather
+aquatic
+reflect
+arch
+ball
+liquid
+cheer
+spiky
+label
+extra-small
+scene
+belong
+tablet
+babies
+super
+kick
+spoof
+treat
+stagnation
+bored
+jam
+bedroom
+afternoon
+crowded
+feeble
+fertile
+secretive
+coal
+dime
+swim
+difficult
+mean
+feigned
+spark
+level
+subsequent
+stravinsky
+vacation
+bleach
+wind
+undress
+oatmeal
+skip
+nation
+steady
+weak
+weather
+accept
+stale
+prickly
+silly
+thinkable
+women
+light
+general
+stampede
+grumpy
+tour
+mix
+business
+activity
+careless
+concerned
+vein
+bite
+store
+basketball
+please
+onerous
+honey
+unlock
+direful
+challenge
+meal
+hurry
+heal
+clean
+bomb
+gifted
+puzzled
+cayenne
+beg
+start
+old
+announce
+ink
+snobbish
+refuse
+vanish
+religion
+yam
+ignorant
+glue
+overflow
+wry
+past
+cats
+uppity
+scratch
+agreement
+stereotyped
+manage
+rebel
+poison
+brave
+drink
+turkey
+holiday
+syrup
+scent
+clip
+cap
+ashamed
+groan
+notebook
+worry
+famous
+practice
+thrill
+eight
+nut
+sterile
+recognise
+ecco2k
+fragile
+utopian
+adjustment
+condition
+well-made
+far-flung
+
+Phase 10:
+Number of false negatives :
+0
+Number of false positives :
+78
+Probability of false positives :
+0.78
+False Positive Elements :
+parallel
+cheat
+parched
+jellyfish
+nebulous
+sparkling
+false
+answer
+quarter
+fairies
+leather
+aquatic
+reflect
+arch
+ball
+liquid
+cheer
+spiky
+label
+extra-small
+scene
+belong
+tablet
+babies
+super
+kick
+spoof
+treat
+stagnation
+bored
+jam
+bedroom
+afternoon
+crowded
+feeble
+fertile
+secretive
+coal
+dime
+swim
+difficult
+mean
+feigned
+spark
+level
+subsequent
+stravinsky
+vacation
+bleach
+wind
+undress
+oatmeal
+skip
+nation
+steady
+weak
+weather
+accept
+stale
+prickly
+silly
+thinkable
+women
+light
+general
+stampede
+grumpy
+tour
+mix
+business
+activity
+careless
+concerned
+vein
+bite
+store
+basketball
+please
+onerous
+honey
+unlock
+direful
+challenge
+meal
+hurry
+heal
+clean
+bomb
+gifted
+puzzled
+cayenne
+beg
+start
+old
+announce
+ink
+snobbish
+refuse
+vanish
+religion
+yam
+ignorant
+glue
+overflow
+wry
+past
+cats
+uppity
+scratch
+agreement
+stereotyped
+manage
+rebel
+poison
+brave
+drink
+turkey
+holiday
+syrup
+scent
+clip
+cap
+ashamed
+groan
+notebook
+worry
+famous
+practice
+thrill
+eight
+nut
+sterile
+recognise
+ecco2k
+fragile
+utopian
+adjustment
+condition
+well-made
+far-flung
+unhealthy
+umbrella
+cable
+join
+chubby
+station
+tin
+one
+monitor
+pikachu
+noxious
+charmander
+numberless
+rest
+hard
+blastoid
+yak
+worm
+judge
+mist
+mountainous
+knock
+spiffy
+obtain
+popcorn
+delicate
+boot
+blind
+puffy
+phone
+serve
+visitor
+inherent
+unnatural
+numerous
+exotic
+loaf
+town
+nose
+gravity
+analyze
+odd
+waves
+look
+hummingbird
+thunder
+unadvised
+destruction
+female
+useless
+bottle
+top
+seashore
+possessive
+exclusive
+humdrum
+trucks
+squeak
+strange
+governor
+lie
+acidic
+various
+spandex
+courageous
+chief
+market
+icy
+parsimonious
+nonstop
+frogs
+acrid
+agreeable
+health
+hideous
+sleepy
+cause
+plausible
+
+Number of false negatives:
+0
+Number of false positives:
+218
+Probability of false positives:
+0.218

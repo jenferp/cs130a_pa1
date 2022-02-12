@@ -1,0 +1,216 @@
+Experiment for the values of:
+p = 0.4
+c = 8.20648
+d = 6.29348
+q = 152597
+Phase 1:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 2:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 3:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 4:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 5:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 6:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 7:
+Number of false negatives :
+0
+Number of false positives :
+5
+Probability of false positives :
+0.05
+False Positive Elements :
+successful
+pastoral
+abashed
+solaris
+girls
+
+Phase 8:
+Number of false negatives :
+0
+Number of false positives :
+7
+Probability of false positives :
+0.07
+False Positive Elements :
+successful
+pastoral
+abashed
+solaris
+girls
+attraction
+legal
+oatmeal
+silly
+ice
+flavor
+rule
+
+Phase 9:
+Number of false negatives :
+0
+Number of false positives :
+22
+Probability of false positives :
+0.22
+False Positive Elements :
+successful
+pastoral
+abashed
+solaris
+girls
+attraction
+legal
+oatmeal
+silly
+ice
+flavor
+rule
+spotty
+poised
+feeling
+cayenne
+nerve
+sedate
+old
+sun
+long-term
+refuse
+religion
+ignorant
+cats
+school
+uppity
+agreement
+bostonian
+scent
+ashamed
+worry
+eight
+far-flung
+
+Phase 10:
+Number of false negatives :
+0
+Number of false positives :
+30
+Probability of false positives :
+0.3
+False Positive Elements :
+successful
+pastoral
+abashed
+solaris
+girls
+attraction
+legal
+oatmeal
+silly
+ice
+flavor
+rule
+spotty
+poised
+feeling
+cayenne
+nerve
+sedate
+old
+sun
+long-term
+refuse
+religion
+ignorant
+cats
+school
+uppity
+agreement
+bostonian
+scent
+ashamed
+worry
+eight
+far-flung
+unhealthy
+join
+station
+one
+periodic
+pass
+worm
+judge
+mountainous
+spiffy
+boot
+serve
+visitor
+unnatural
+town
+aberrant
+giant
+flanders
+bottle
+fireman
+humdrum
+squeak
+strange
+protective
+spandex
+icy
+parsimonious
+sleepy
+cause
+plausible
+
+Number of false negatives:
+0
+Number of false positives:
+64
+Probability of false positives:
+0.064

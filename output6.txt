@@ -1,0 +1,380 @@
+Experiment for the values of:
+p = 0.4
+c = 5.69387
+d = 6.89467
+q = 95369
+Phase 1:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 2:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 3:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 4:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 5:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 6:
+Number of false negatives :
+0
+Number of false positives :
+2
+Probability of false positives :
+0.02
+False Positive Elements :
+parched
+silver
+
+Phase 7:
+Number of false negatives :
+0
+Number of false positives :
+11
+Probability of false positives :
+0.11
+False Positive Elements :
+parched
+silver
+false
+grate
+retire
+telling
+shiver
+number
+belong
+dramatic
+assorted
+fang
+jam
+
+Phase 8:
+Number of false negatives :
+0
+Number of false positives :
+31
+Probability of false positives :
+0.31
+False Positive Elements :
+parched
+silver
+false
+grate
+retire
+telling
+shiver
+number
+belong
+dramatic
+assorted
+fang
+jam
+afternoon
+dime
+relax
+knife
+distribution
+difficult
+feigned
+heron
+cherry
+stravinsky
+glow
+short
+fog
+steady
+accept
+stale
+prickly
+shaggy
+thinkable
+light
+shrill
+grumpy
+tour
+flavor
+mix
+object
+brawny
+punishment
+auspicious
+daffy
+impolite
+
+Phase 9:
+Number of false negatives :
+0
+Number of false positives :
+42
+Probability of false positives :
+0.42
+False Positive Elements :
+parched
+silver
+false
+grate
+retire
+telling
+shiver
+number
+belong
+dramatic
+assorted
+fang
+jam
+afternoon
+dime
+relax
+knife
+distribution
+difficult
+feigned
+heron
+cherry
+stravinsky
+glow
+short
+fog
+steady
+accept
+stale
+prickly
+shaggy
+thinkable
+light
+shrill
+grumpy
+tour
+flavor
+mix
+object
+brawny
+punishment
+auspicious
+daffy
+impolite
+challenge
+meal
+pollution
+gifted
+beg
+unkempt
+start
+sedate
+old
+damage
+ink
+snobbish
+vanish
+yam
+ignorant
+glue
+past
+own
+uppity
+scratch
+lethal
+manage
+preach
+kindly
+brave
+bostonian
+holiday
+syrup
+scent
+physical
+cap
+groan
+notebook
+awake
+famous
+pumped
+determined
+fish
+writing
+adjustment
+condition
+well-made
+
+Phase 10:
+Number of false negatives :
+0
+Number of false positives :
+48
+Probability of false positives :
+0.48
+False Positive Elements :
+parched
+silver
+false
+grate
+retire
+telling
+shiver
+number
+belong
+dramatic
+assorted
+fang
+jam
+afternoon
+dime
+relax
+knife
+distribution
+difficult
+feigned
+heron
+cherry
+stravinsky
+glow
+short
+fog
+steady
+accept
+stale
+prickly
+shaggy
+thinkable
+light
+shrill
+grumpy
+tour
+flavor
+mix
+object
+brawny
+punishment
+auspicious
+daffy
+impolite
+challenge
+meal
+pollution
+gifted
+beg
+unkempt
+start
+sedate
+old
+damage
+ink
+snobbish
+vanish
+yam
+ignorant
+glue
+past
+own
+uppity
+scratch
+lethal
+manage
+preach
+kindly
+brave
+bostonian
+holiday
+syrup
+scent
+physical
+cap
+groan
+notebook
+awake
+famous
+pumped
+determined
+fish
+writing
+adjustment
+condition
+well-made
+umbrella
+join
+chubby
+station
+one
+monitor
+pikachu
+ready
+money
+numberless
+hard
+yak
+mist
+delicate
+shelter
+puffy
+phone
+hover
+visitor
+shelf
+unnatural
+town
+giant
+nose
+analyze
+bit
+breathe
+odd
+look
+thunder
+female
+fireman
+exclusive
+humdrum
+trucks
+protective
+lie
+various
+spandex
+courageous
+market
+icy
+frogs
+scribble
+agreeable
+hideous
+cause
+plausible
+
+Number of false negatives:
+0
+Number of false positives:
+134
+Probability of false positives:
+0.134

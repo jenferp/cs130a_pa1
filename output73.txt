@@ -1,0 +1,435 @@
+Experiment for the values of:
+p = 0.4
+c = 2.92047
+d = 4.34879
+q = 38149
+Phase 1:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 2:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 3:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 4:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 5:
+Number of false negatives :
+0
+Number of false positives :
+6
+Probability of false positives :
+0.06
+False Positive Elements :
+political
+depth
+bubble
+front
+annoy
+wren
+
+Phase 6:
+Number of false negatives :
+0
+Number of false positives :
+14
+Probability of false positives :
+0.14
+False Positive Elements :
+political
+depth
+bubble
+front
+annoy
+wren
+ajar
+purpose
+nippy
+parched
+coast
+ripe
+black
+yarn
+crawl
+bustling
+structure
+sparkling
+alive
+decisive
+
+Phase 7:
+Number of false negatives :
+0
+Number of false positives :
+16
+Probability of false positives :
+0.16
+False Positive Elements :
+political
+depth
+bubble
+front
+annoy
+wren
+ajar
+purpose
+nippy
+parched
+coast
+ripe
+black
+yarn
+crawl
+bustling
+structure
+sparkling
+alive
+decisive
+verse
+science
+grate
+flippant
+quickest
+ball
+accidental
+innocent
+bouncy
+tablet
+super
+plant
+assorted
+synthesizer
+blue-eyed
+agonizing
+
+Phase 8:
+Number of false negatives :
+0
+Number of false positives :
+19
+Probability of false positives :
+0.19
+False Positive Elements :
+political
+depth
+bubble
+front
+annoy
+wren
+ajar
+purpose
+nippy
+parched
+coast
+ripe
+black
+yarn
+crawl
+bustling
+structure
+sparkling
+alive
+decisive
+verse
+science
+grate
+flippant
+quickest
+ball
+accidental
+innocent
+bouncy
+tablet
+super
+plant
+assorted
+synthesizer
+blue-eyed
+agonizing
+queen
+afternoon
+distinct
+feeble
+secretive
+heron
+spark
+hop
+wind
+nation
+weather
+program
+stale
+women
+tour
+activity
+punishment
+auspicious
+impolite
+
+Phase 9:
+Number of false negatives :
+0
+Number of false positives :
+35
+Probability of false positives :
+0.35
+False Positive Elements :
+political
+depth
+bubble
+front
+annoy
+wren
+ajar
+purpose
+nippy
+parched
+coast
+ripe
+black
+yarn
+crawl
+bustling
+structure
+sparkling
+alive
+decisive
+verse
+science
+grate
+flippant
+quickest
+ball
+accidental
+innocent
+bouncy
+tablet
+super
+plant
+assorted
+synthesizer
+blue-eyed
+agonizing
+queen
+afternoon
+distinct
+feeble
+secretive
+heron
+spark
+hop
+wind
+nation
+weather
+program
+stale
+women
+tour
+activity
+punishment
+auspicious
+impolite
+honey
+spotty
+feeling
+clean
+gifted
+beg
+old
+announce
+snobbish
+cautious
+wry
+own
+uppity
+six
+stereotyped
+rebel
+poison
+bostonian
+holiday
+best
+scent
+monkey
+sip
+physical
+clip
+ashamed
+notebook
+fish
+eight
+nut
+recognise
+fragile
+utopian
+writing
+far-flung
+
+Phase 10:
+Number of false negatives :
+0
+Number of false positives :
+37
+Probability of false positives :
+0.37
+False Positive Elements :
+political
+depth
+bubble
+front
+annoy
+wren
+ajar
+purpose
+nippy
+parched
+coast
+ripe
+black
+yarn
+crawl
+bustling
+structure
+sparkling
+alive
+decisive
+verse
+science
+grate
+flippant
+quickest
+ball
+accidental
+innocent
+bouncy
+tablet
+super
+plant
+assorted
+synthesizer
+blue-eyed
+agonizing
+queen
+afternoon
+distinct
+feeble
+secretive
+heron
+spark
+hop
+wind
+nation
+weather
+program
+stale
+women
+tour
+activity
+punishment
+auspicious
+impolite
+honey
+spotty
+feeling
+clean
+gifted
+beg
+old
+announce
+snobbish
+cautious
+wry
+own
+uppity
+six
+stereotyped
+rebel
+poison
+bostonian
+holiday
+best
+scent
+monkey
+sip
+physical
+clip
+ashamed
+notebook
+fish
+eight
+nut
+recognise
+fragile
+utopian
+writing
+far-flung
+pikachu
+charmander
+money
+numberless
+worm
+judge
+mountainous
+knock
+obtain
+delicate
+boot
+serve
+visitor
+sassy
+inherent
+unnatural
+loaf
+town
+aberrant
+waves
+look
+flanders
+bottle
+fireman
+top
+seashore
+humdrum
+strange
+governor
+courageous
+chief
+market
+icy
+scribble
+agreeable
+hideous
+faithful
+
+Number of false negatives:
+0
+Number of false positives:
+127
+Probability of false positives:
+0.127

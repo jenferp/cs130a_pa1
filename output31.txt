@@ -1,0 +1,149 @@
+Experiment for the values of:
+p = 0.4
+c = 3.18209
+d = 1.42218
+q = 57221
+Phase 1:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 2:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 3:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 4:
+Number of false negatives :
+0
+Number of false positives :
+1
+Probability of false positives :
+0.01
+False Positive Elements :
+finger
+
+Phase 5:
+Number of false negatives :
+0
+Number of false positives :
+1
+Probability of false positives :
+0.01
+False Positive Elements :
+finger
+bridge
+
+Phase 6:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+finger
+bridge
+
+Phase 7:
+Number of false negatives :
+0
+Number of false positives :
+2
+Probability of false positives :
+0.02
+False Positive Elements :
+finger
+bridge
+label
+treat
+
+Phase 8:
+Number of false negatives :
+0
+Number of false positives :
+3
+Probability of false positives :
+0.03
+False Positive Elements :
+finger
+bridge
+label
+treat
+distinct
+thinkable
+chivalrous
+
+Phase 9:
+Number of false negatives :
+0
+Number of false positives :
+5
+Probability of false positives :
+0.05
+False Positive Elements :
+finger
+bridge
+label
+treat
+distinct
+thinkable
+chivalrous
+heal
+announce
+six
+sip
+determined
+
+Phase 10:
+Number of false negatives :
+0
+Number of false positives :
+8
+Probability of false positives :
+0.08
+False Positive Elements :
+finger
+bridge
+label
+treat
+distinct
+thinkable
+chivalrous
+heal
+announce
+six
+sip
+determined
+noxious
+money
+mist
+hover
+giant
+hummingbird
+thunder
+trucks
+
+Number of false negatives:
+0
+Number of false positives:
+20
+Probability of false positives:
+0.02

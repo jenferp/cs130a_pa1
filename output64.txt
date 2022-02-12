@@ -1,0 +1,129 @@
+Experiment for the values of:
+p = 0.4
+c = 7.20681
+d = 4.78279
+q = 133499
+Phase 1:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 2:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 3:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 4:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 5:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 6:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 7:
+Number of false negatives :
+0
+Number of false positives :
+1
+Probability of false positives :
+0.01
+False Positive Elements :
+mixer
+
+Phase 8:
+Number of false negatives :
+0
+Number of false positives :
+4
+Probability of false positives :
+0.04
+False Positive Elements :
+mixer
+distribution
+stale
+squirrel
+thinkable
+
+Phase 9:
+Number of false negatives :
+0
+Number of false positives :
+1
+Probability of false positives :
+0.01
+False Positive Elements :
+mixer
+distribution
+stale
+squirrel
+thinkable
+start
+
+Phase 10:
+Number of false negatives :
+0
+Number of false positives :
+10
+Probability of false positives :
+0.1
+False Positive Elements :
+mixer
+distribution
+stale
+squirrel
+thinkable
+start
+chubby
+monitor
+noxious
+ready
+painful
+boot
+shelf
+inherent
+look
+frogs
+
+Number of false negatives:
+0
+Number of false positives:
+16
+Probability of false positives:
+0.016

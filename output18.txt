@@ -1,0 +1,181 @@
+Experiment for the values of:
+p = 0.4
+c = 6.50475
+d = 5.31593
+q = 114451
+Phase 1:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 2:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 3:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 4:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 5:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 6:
+Number of false negatives :
+0
+Number of false positives :
+1
+Probability of false positives :
+0.01
+False Positive Elements :
+puny
+
+Phase 7:
+Number of false negatives :
+0
+Number of false positives :
+5
+Probability of false positives :
+0.05
+False Positive Elements :
+puny
+successful
+telling
+itchy
+stupid
+super
+
+Phase 8:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+puny
+successful
+telling
+itchy
+stupid
+super
+
+Phase 9:
+Number of false negatives :
+0
+Number of false positives :
+20
+Probability of false positives :
+0.2
+False Positive Elements :
+puny
+successful
+telling
+itchy
+stupid
+super
+hurry
+feeling
+clean
+bomb
+start
+bikes
+ink
+long-term
+refuse
+vanish
+ignorant
+past
+preach
+kindly
+brave
+monkey
+thrill
+pumped
+fragile
+well-made
+
+Phase 10:
+Number of false negatives :
+0
+Number of false positives :
+15
+Probability of false positives :
+0.15
+False Positive Elements :
+puny
+successful
+telling
+itchy
+stupid
+super
+hurry
+feeling
+clean
+bomb
+start
+bikes
+ink
+long-term
+refuse
+vanish
+ignorant
+past
+preach
+kindly
+brave
+monkey
+thrill
+pumped
+fragile
+well-made
+ready
+judge
+painful
+shelter
+blind
+phone
+hover
+visitor
+aberrant
+breathe
+signal
+fireman
+trucks
+governor
+scribble
+
+Number of false negatives:
+0
+Number of false positives:
+41
+Probability of false positives:
+0.041

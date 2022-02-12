@@ -1,0 +1,129 @@
+Experiment for the values of:
+p = 0.4
+c = 8.81571
+d = 5.55241
+q = 152597
+Phase 1:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 2:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 3:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 4:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 5:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 6:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 7:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 8:
+Number of false negatives :
+0
+Number of false positives :
+1
+Probability of false positives :
+0.01
+False Positive Elements :
+brawny
+
+Phase 9:
+Number of false negatives :
+0
+Number of false positives :
+6
+Probability of false positives :
+0.06
+False Positive Elements :
+brawny
+challenge
+cautious
+physical
+practice
+pumped
+utopian
+
+Phase 10:
+Number of false negatives :
+0
+Number of false positives :
+13
+Probability of false positives :
+0.13
+False Positive Elements :
+brawny
+challenge
+cautious
+physical
+practice
+pumped
+utopian
+unhealthy
+umbrella
+chubby
+rest
+mountainous
+painful
+spiffy
+visitor
+exotic
+town
+hummingbird
+bottle
+plausible
+
+Number of false negatives:
+0
+Number of false positives:
+20
+Probability of false positives:
+0.02

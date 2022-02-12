@@ -1,0 +1,459 @@
+Experiment for the values of:
+p = 0.4
+c = 4.36106
+d = 6.37312
+q = 76289
+Phase 1:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 2:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 3:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 4:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 5:
+Number of false negatives :
+0
+Number of false positives :
+3
+Probability of false positives :
+0.03
+False Positive Elements :
+picture
+switch
+polite
+
+Phase 6:
+Number of false negatives :
+0
+Number of false positives :
+4
+Probability of false positives :
+0.04
+False Positive Elements :
+picture
+switch
+polite
+boil
+nippy
+fallacious
+cream
+
+Phase 7:
+Number of false negatives :
+0
+Number of false positives :
+17
+Probability of false positives :
+0.17
+False Positive Elements :
+picture
+switch
+polite
+boil
+nippy
+fallacious
+cream
+verse
+successful
+intelligent
+sweater
+misty
+reflect
+spiky
+shiver
+mushy
+scene
+terrific
+wash
+pastoral
+mend
+assorted
+agonizing
+evasive
+
+Phase 8:
+Number of false negatives :
+0
+Number of false positives :
+35
+Probability of false positives :
+0.35
+False Positive Elements :
+picture
+switch
+polite
+boil
+nippy
+fallacious
+cream
+verse
+successful
+intelligent
+sweater
+misty
+reflect
+spiky
+shiver
+mushy
+scene
+terrific
+wash
+pastoral
+mend
+assorted
+agonizing
+evasive
+bedroom
+distinct
+crowded
+fertile
+dime
+scientific
+mean
+feigned
+heron
+spark
+somber
+cherry
+bleach
+wind
+undress
+short
+skip
+fog
+weather
+program
+sort
+prickly
+lean
+overwrought
+shrill
+heartbreaking
+chivalrous
+mix
+activity
+brawny
+stamp
+store
+basketball
+sad
+impolite
+
+Phase 9:
+Number of false negatives :
+0
+Number of false positives :
+43
+Probability of false positives :
+0.43
+False Positive Elements :
+picture
+switch
+polite
+boil
+nippy
+fallacious
+cream
+verse
+successful
+intelligent
+sweater
+misty
+reflect
+spiky
+shiver
+mushy
+scene
+terrific
+wash
+pastoral
+mend
+assorted
+agonizing
+evasive
+bedroom
+distinct
+crowded
+fertile
+dime
+scientific
+mean
+feigned
+heron
+spark
+somber
+cherry
+bleach
+wind
+undress
+short
+skip
+fog
+weather
+program
+sort
+prickly
+lean
+overwrought
+shrill
+heartbreaking
+chivalrous
+mix
+activity
+brawny
+stamp
+store
+basketball
+sad
+impolite
+please
+unlock
+eggs
+challenge
+meal
+heal
+pollution
+gifted
+cayenne
+beg
+unkempt
+start
+old
+announce
+sun
+bikes
+damage
+ink
+vanish
+ignorant
+overflow
+wry
+past
+school
+uppity
+lethal
+stereotyped
+manage
+rebel
+preach
+kindly
+bostonian
+syrup
+best
+channel
+monkey
+physical
+practice
+eight
+nut
+sterile
+recognise
+utopian
+
+Phase 10:
+Number of false negatives :
+0
+Number of false positives :
+61
+Probability of false positives :
+0.61
+False Positive Elements :
+picture
+switch
+polite
+boil
+nippy
+fallacious
+cream
+verse
+successful
+intelligent
+sweater
+misty
+reflect
+spiky
+shiver
+mushy
+scene
+terrific
+wash
+pastoral
+mend
+assorted
+agonizing
+evasive
+bedroom
+distinct
+crowded
+fertile
+dime
+scientific
+mean
+feigned
+heron
+spark
+somber
+cherry
+bleach
+wind
+undress
+short
+skip
+fog
+weather
+program
+sort
+prickly
+lean
+overwrought
+shrill
+heartbreaking
+chivalrous
+mix
+activity
+brawny
+stamp
+store
+basketball
+sad
+impolite
+please
+unlock
+eggs
+challenge
+meal
+heal
+pollution
+gifted
+cayenne
+beg
+unkempt
+start
+old
+announce
+sun
+bikes
+damage
+ink
+vanish
+ignorant
+overflow
+wry
+past
+school
+uppity
+lethal
+stereotyped
+manage
+rebel
+preach
+kindly
+bostonian
+syrup
+best
+channel
+monkey
+physical
+practice
+eight
+nut
+sterile
+recognise
+utopian
+unhealthy
+cable
+join
+chubby
+monitor
+pikachu
+periodic
+pass
+ready
+charmander
+money
+numberless
+hard
+yak
+worm
+mountainous
+knock
+spiffy
+delicate
+boot
+phone
+visitor
+shelf
+inherent
+unnatural
+numerous
+exotic
+town
+giant
+nose
+gravity
+analyze
+bit
+breathe
+odd
+hummingbird
+flanders
+destruction
+fireman
+top
+seashore
+exclusive
+humdrum
+trucks
+squeak
+strange
+protective
+lie
+acidic
+various
+debonair
+icy
+parsimonious
+scribble
+acrid
+agreeable
+hideous
+faithful
+heady
+cause
+plausible
+
+Number of false negatives:
+0
+Number of false positives:
+163
+Probability of false positives:
+0.163

@@ -1,0 +1,473 @@
+Experiment for the values of:
+p = 0.4
+c = 6.89467
+d = 8.65438
+q = 114451
+Phase 1:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 2:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 3:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 4:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 5:
+Number of false negatives :
+0
+Number of false positives :
+2
+Probability of false positives :
+0.02
+False Positive Elements :
+rate
+front
+
+Phase 6:
+Number of false negatives :
+0
+Number of false positives :
+4
+Probability of false positives :
+0.04
+False Positive Elements :
+rate
+front
+poor
+puny
+lumber
+special
+
+Phase 7:
+Number of false negatives :
+0
+Number of false positives :
+17
+Probability of false positives :
+0.17
+False Positive Elements :
+rate
+front
+poor
+puny
+lumber
+special
+insect
+leather
+madly
+observe
+spiky
+telling
+shiver
+number
+babies
+tail
+super
+plant
+solaris
+spoof
+synthesizer
+jam
+agonizing
+
+Phase 8:
+Number of false negatives :
+0
+Number of false positives :
+32
+Probability of false positives :
+0.32
+False Positive Elements :
+rate
+front
+poor
+puny
+lumber
+special
+insect
+leather
+madly
+observe
+spiky
+telling
+shiver
+number
+babies
+tail
+super
+plant
+solaris
+spoof
+synthesizer
+jam
+agonizing
+bedroom
+tray
+crowded
+feeble
+birds
+swim
+legal
+knife
+feigned
+spark
+somber
+level
+hop
+lowly
+vacation
+wind
+nation
+weather
+accept
+prickly
+thinkable
+shrill
+stampede
+heartbreaking
+vein
+brawny
+stamp
+punishment
+bite
+cover
+auspicious
+impolite
+
+Phase 9:
+Number of false negatives :
+0
+Number of false positives :
+57
+Probability of false positives :
+0.57
+False Positive Elements :
+rate
+front
+poor
+puny
+lumber
+special
+insect
+leather
+madly
+observe
+spiky
+telling
+shiver
+number
+babies
+tail
+super
+plant
+solaris
+spoof
+synthesizer
+jam
+agonizing
+bedroom
+tray
+crowded
+feeble
+birds
+swim
+legal
+knife
+feigned
+spark
+somber
+level
+hop
+lowly
+vacation
+wind
+nation
+weather
+accept
+prickly
+thinkable
+shrill
+stampede
+heartbreaking
+vein
+brawny
+stamp
+punishment
+bite
+cover
+auspicious
+impolite
+honey
+spotty
+direful
+pig
+poised
+hurry
+heal
+gifted
+puzzled
+beg
+start
+old
+announce
+labored
+bikes
+damage
+ink
+long-term
+cautious
+vanish
+yam
+ignorant
+glue
+overflow
+wry
+design
+cats
+school
+lethal
+six
+agreement
+stereotyped
+preach
+kindly
+brave
+bostonian
+drink
+holiday
+channel
+scent
+monkey
+syndicate
+clip
+notebook
+worry
+famous
+practice
+determined
+fish
+sterile
+recognise
+ecco2k
+curved
+fragile
+writing
+adjustment
+condition
+
+Phase 10:
+Number of false negatives :
+0
+Number of false positives :
+62
+Probability of false positives :
+0.62
+False Positive Elements :
+rate
+front
+poor
+puny
+lumber
+special
+insect
+leather
+madly
+observe
+spiky
+telling
+shiver
+number
+babies
+tail
+super
+plant
+solaris
+spoof
+synthesizer
+jam
+agonizing
+bedroom
+tray
+crowded
+feeble
+birds
+swim
+legal
+knife
+feigned
+spark
+somber
+level
+hop
+lowly
+vacation
+wind
+nation
+weather
+accept
+prickly
+thinkable
+shrill
+stampede
+heartbreaking
+vein
+brawny
+stamp
+punishment
+bite
+cover
+auspicious
+impolite
+honey
+spotty
+direful
+pig
+poised
+hurry
+heal
+gifted
+puzzled
+beg
+start
+old
+announce
+labored
+bikes
+damage
+ink
+long-term
+cautious
+vanish
+yam
+ignorant
+glue
+overflow
+wry
+design
+cats
+school
+lethal
+six
+agreement
+stereotyped
+preach
+kindly
+brave
+bostonian
+drink
+holiday
+channel
+scent
+monkey
+syndicate
+clip
+notebook
+worry
+famous
+practice
+determined
+fish
+sterile
+recognise
+ecco2k
+curved
+fragile
+writing
+adjustment
+condition
+unhealthy
+umbrella
+cable
+station
+tin
+monitor
+pikachu
+pass
+ready
+charmander
+money
+numberless
+hard
+blastoid
+worm
+judge
+painful
+spiffy
+obtain
+boot
+shelter
+puffy
+phone
+serve
+hover
+visitor
+sassy
+inherent
+numerous
+loaf
+town
+analyze
+bit
+breathe
+odd
+signal
+look
+unadvised
+destruction
+female
+bottle
+fireman
+top
+possessive
+exclusive
+trucks
+squeak
+strange
+governor
+lie
+various
+spandex
+semaphore
+debonair
+icy
+nonstop
+scribble
+acrid
+health
+hideous
+cause
+plausible
+
+Number of false negatives:
+0
+Number of false positives:
+174
+Probability of false positives:
+0.174

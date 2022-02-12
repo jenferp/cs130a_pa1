@@ -1,0 +1,398 @@
+Experiment for the values of:
+p = 0.4
+c = 9.23297
+d = 8.51178
+q = 171641
+Phase 1:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 2:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 3:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 4:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 5:
+Number of false negatives :
+0
+Number of false positives :
+1
+Probability of false positives :
+0.01
+False Positive Elements :
+teeny
+
+Phase 6:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+teeny
+
+Phase 7:
+Number of false negatives :
+0
+Number of false positives :
+11
+Probability of false positives :
+0.11
+False Positive Elements :
+teeny
+daily
+sweater
+observe
+eatery
+violent
+airplane
+pastoral
+wriggle
+bloody
+super
+stagnation
+
+Phase 8:
+Number of false negatives :
+0
+Number of false positives :
+31
+Probability of false positives :
+0.31
+False Positive Elements :
+teeny
+daily
+sweater
+observe
+eatery
+violent
+airplane
+pastoral
+wriggle
+bloody
+super
+stagnation
+unique
+feeble
+secretive
+birds
+coal
+dime
+mean
+spark
+level
+subsequent
+skip
+nation
+weak
+things
+camp
+makeshift
+prickly
+lean
+shrill
+grumpy
+flavor
+rule
+activity
+concerned
+stamp
+punishment
+basketball
+cover
+sad
+foot
+impolite
+
+Phase 9:
+Number of false negatives :
+0
+Number of false positives :
+45
+Probability of false positives :
+0.45
+False Positive Elements :
+teeny
+daily
+sweater
+observe
+eatery
+violent
+airplane
+pastoral
+wriggle
+bloody
+super
+stagnation
+unique
+feeble
+secretive
+birds
+coal
+dime
+mean
+spark
+level
+subsequent
+skip
+nation
+weak
+things
+camp
+makeshift
+prickly
+lean
+shrill
+grumpy
+flavor
+rule
+activity
+concerned
+stamp
+punishment
+basketball
+cover
+sad
+foot
+impolite
+please
+onerous
+challenge
+poised
+feeling
+gifted
+puzzled
+cayenne
+beg
+old
+announce
+sun
+labored
+bikes
+damage
+ink
+snobbish
+refuse
+religion
+sail
+past
+design
+cats
+uppity
+six
+manage
+preach
+brave
+turkey
+holiday
+best
+syndicate
+ashamed
+notebook
+determined
+fish
+eight
+sterile
+ecco2k
+curved
+fragile
+writing
+adjustment
+condition
+far-flung
+
+Phase 10:
+Number of false negatives :
+0
+Number of false positives :
+64
+Probability of false positives :
+0.64
+False Positive Elements :
+teeny
+daily
+sweater
+observe
+eatery
+violent
+airplane
+pastoral
+wriggle
+bloody
+super
+stagnation
+unique
+feeble
+secretive
+birds
+coal
+dime
+mean
+spark
+level
+subsequent
+skip
+nation
+weak
+things
+camp
+makeshift
+prickly
+lean
+shrill
+grumpy
+flavor
+rule
+activity
+concerned
+stamp
+punishment
+basketball
+cover
+sad
+foot
+impolite
+please
+onerous
+challenge
+poised
+feeling
+gifted
+puzzled
+cayenne
+beg
+old
+announce
+sun
+labored
+bikes
+damage
+ink
+snobbish
+refuse
+religion
+sail
+past
+design
+cats
+uppity
+six
+manage
+preach
+brave
+turkey
+holiday
+best
+syndicate
+ashamed
+notebook
+determined
+fish
+eight
+sterile
+ecco2k
+curved
+fragile
+writing
+adjustment
+condition
+far-flung
+umbrella
+cable
+join
+station
+tin
+monitor
+pikachu
+periodic
+noxious
+pass
+money
+numberless
+worm
+judge
+mist
+knock
+painful
+spiffy
+shelter
+blind
+puffy
+visitor
+sassy
+shelf
+unnatural
+numerous
+loaf
+town
+aberrant
+nose
+gravity
+bit
+breathe
+odd
+look
+thunder
+unadvised
+destruction
+useless
+bottle
+top
+seashore
+trucks
+squeak
+governor
+protective
+lie
+various
+semaphore
+courageous
+market
+debonair
+icy
+parsimonious
+nonstop
+frogs
+scribble
+acrid
+health
+hideous
+sleepy
+faithful
+cause
+plausible
+
+Number of false negatives:
+0
+Number of false positives:
+152
+Probability of false positives:
+0.152

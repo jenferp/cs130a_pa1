@@ -1,0 +1,580 @@
+Experiment for the values of:
+p = 0.4
+c = 6.64062
+d = 8.90522
+q = 114451
+Phase 1:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 2:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 3:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 4:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 5:
+Number of false negatives :
+0
+Number of false positives :
+1
+Probability of false positives :
+0.01
+False Positive Elements :
+mixed
+
+Phase 6:
+Number of false negatives :
+0
+Number of false positives :
+7
+Probability of false positives :
+0.07
+False Positive Elements :
+mixed
+ajar
+sisters
+rough
+temper
+coast
+ugliest
+silver
+
+Phase 7:
+Number of false negatives :
+0
+Number of false positives :
+25
+Probability of false positives :
+0.25
+False Positive Elements :
+mixed
+ajar
+sisters
+rough
+temper
+coast
+ugliest
+silver
+pan
+science
+probability
+coat
+flippant
+intelligent
+talented
+reflect
+liquid
+current
+cheer
+telling
+eatery
+label
+mushy
+dramatic
+tablet
+smooth
+tail
+defiant
+solaris
+stagnation
+blue-eyed
+mixer
+agonizing
+
+Phase 8:
+Number of false negatives :
+0
+Number of false positives :
+50
+Probability of false positives :
+0.5
+False Positive Elements :
+mixed
+ajar
+sisters
+rough
+temper
+coast
+ugliest
+silver
+pan
+science
+probability
+coat
+flippant
+intelligent
+talented
+reflect
+liquid
+current
+cheer
+telling
+eatery
+label
+mushy
+dramatic
+tablet
+smooth
+tail
+defiant
+solaris
+stagnation
+blue-eyed
+mixer
+agonizing
+queen
+bedroom
+afternoon
+unique
+tray
+crowded
+feeble
+fertile
+relax
+legal
+knife
+feigned
+spark
+somber
+hop
+subsequent
+snails
+lowly
+undress
+oatmeal
+nation
+fog
+blimp
+steady
+street
+weak
+weather
+program
+accept
+stale
+prickly
+shaggy
+flat
+ice
+women
+stampede
+compete
+possess
+chivalrous
+business
+rule
+brawny
+stamp
+punishment
+bite
+store
+basketball
+cover
+foot
+impolite
+
+Phase 9:
+Number of false negatives :
+0
+Number of false positives :
+57
+Probability of false positives :
+0.57
+False Positive Elements :
+mixed
+ajar
+sisters
+rough
+temper
+coast
+ugliest
+silver
+pan
+science
+probability
+coat
+flippant
+intelligent
+talented
+reflect
+liquid
+current
+cheer
+telling
+eatery
+label
+mushy
+dramatic
+tablet
+smooth
+tail
+defiant
+solaris
+stagnation
+blue-eyed
+mixer
+agonizing
+queen
+bedroom
+afternoon
+unique
+tray
+crowded
+feeble
+fertile
+relax
+legal
+knife
+feigned
+spark
+somber
+hop
+subsequent
+snails
+lowly
+undress
+oatmeal
+nation
+fog
+blimp
+steady
+street
+weak
+weather
+program
+accept
+stale
+prickly
+shaggy
+flat
+ice
+women
+stampede
+compete
+possess
+chivalrous
+business
+rule
+brawny
+stamp
+punishment
+bite
+store
+basketball
+cover
+foot
+impolite
+please
+onerous
+honey
+spotty
+unlock
+direful
+pig
+challenge
+meal
+poised
+hurry
+cayenne
+nerve
+sedate
+sun
+labored
+damage
+ink
+long-term
+cautious
+refuse
+religion
+yam
+ignorant
+sail
+glue
+wry
+design
+school
+lethal
+agreement
+stereotyped
+manage
+rebel
+poison
+brave
+holiday
+best
+ghost
+monkey
+physical
+syndicate
+clip
+cap
+ashamed
+worry
+famous
+thrill
+determined
+eight
+sterile
+ecco2k
+curved
+utopian
+condition
+well-made
+far-flung
+
+Phase 10:
+Number of false negatives :
+0
+Number of false positives :
+74
+Probability of false positives :
+0.74
+False Positive Elements :
+mixed
+ajar
+sisters
+rough
+temper
+coast
+ugliest
+silver
+pan
+science
+probability
+coat
+flippant
+intelligent
+talented
+reflect
+liquid
+current
+cheer
+telling
+eatery
+label
+mushy
+dramatic
+tablet
+smooth
+tail
+defiant
+solaris
+stagnation
+blue-eyed
+mixer
+agonizing
+queen
+bedroom
+afternoon
+unique
+tray
+crowded
+feeble
+fertile
+relax
+legal
+knife
+feigned
+spark
+somber
+hop
+subsequent
+snails
+lowly
+undress
+oatmeal
+nation
+fog
+blimp
+steady
+street
+weak
+weather
+program
+accept
+stale
+prickly
+shaggy
+flat
+ice
+women
+stampede
+compete
+possess
+chivalrous
+business
+rule
+brawny
+stamp
+punishment
+bite
+store
+basketball
+cover
+foot
+impolite
+please
+onerous
+honey
+spotty
+unlock
+direful
+pig
+challenge
+meal
+poised
+hurry
+cayenne
+nerve
+sedate
+sun
+labored
+damage
+ink
+long-term
+cautious
+refuse
+religion
+yam
+ignorant
+sail
+glue
+wry
+design
+school
+lethal
+agreement
+stereotyped
+manage
+rebel
+poison
+brave
+holiday
+best
+ghost
+monkey
+physical
+syndicate
+clip
+cap
+ashamed
+worry
+famous
+thrill
+determined
+eight
+sterile
+ecco2k
+curved
+utopian
+condition
+well-made
+far-flung
+unhealthy
+umbrella
+join
+chubby
+station
+tin
+one
+monitor
+pikachu
+periodic
+noxious
+ready
+numberless
+rest
+hard
+blastoid
+yak
+worm
+judge
+mist
+mountainous
+knock
+painful
+spiffy
+obtain
+delicate
+blind
+serve
+hover
+visitor
+shelf
+inherent
+unnatural
+numerous
+exotic
+loaf
+town
+nose
+bit
+breathe
+odd
+signal
+waves
+look
+hummingbird
+thunder
+useless
+bottle
+fireman
+top
+possessive
+exclusive
+humdrum
+squeak
+strange
+governor
+protective
+lie
+acidic
+various
+semaphore
+courageous
+chief
+parsimonious
+nonstop
+frogs
+acrid
+agreeable
+hideous
+sleepy
+faithful
+heady
+cause
+plausible
+
+Number of false negatives:
+0
+Number of false positives:
+214
+Probability of false positives:
+0.214

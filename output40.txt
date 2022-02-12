@@ -1,0 +1,242 @@
+Experiment for the values of:
+p = 0.4
+c = 6.17163
+d = 6.54315
+q = 114451
+Phase 1:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 2:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 3:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 4:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 5:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 6:
+Number of false negatives :
+0
+Number of false positives :
+2
+Probability of false positives :
+0.02
+False Positive Elements :
+trick
+walrus
+
+Phase 7:
+Number of false negatives :
+0
+Number of false positives :
+4
+Probability of false positives :
+0.04
+False Positive Elements :
+trick
+walrus
+coat
+horrible
+fasten
+spot
+
+Phase 8:
+Number of false negatives :
+0
+Number of false positives :
+16
+Probability of false positives :
+0.16
+False Positive Elements :
+trick
+walrus
+coat
+horrible
+fasten
+spot
+crowded
+birds
+swim
+scientific
+distribution
+difficult
+mean
+somber
+glow
+short
+silly
+stampede
+business
+rule
+vein
+punishment
+
+Phase 9:
+Number of false negatives :
+0
+Number of false positives :
+14
+Probability of false positives :
+0.14
+False Positive Elements :
+trick
+walrus
+coat
+horrible
+fasten
+spot
+crowded
+birds
+swim
+scientific
+distribution
+difficult
+mean
+somber
+glow
+short
+silly
+stampede
+business
+rule
+vein
+punishment
+onerous
+pig
+poised
+cayenne
+beg
+nerve
+labored
+cats
+scratch
+kindly
+drink
+notebook
+pumped
+well-made
+
+Phase 10:
+Number of false negatives :
+0
+Number of false positives :
+39
+Probability of false positives :
+0.39
+False Positive Elements :
+trick
+walrus
+coat
+horrible
+fasten
+spot
+crowded
+birds
+swim
+scientific
+distribution
+difficult
+mean
+somber
+glow
+short
+silly
+stampede
+business
+rule
+vein
+punishment
+onerous
+pig
+poised
+cayenne
+beg
+nerve
+labored
+cats
+scratch
+kindly
+drink
+notebook
+pumped
+well-made
+unhealthy
+tin
+one
+pikachu
+periodic
+money
+hard
+delicate
+boot
+puffy
+phone
+serve
+visitor
+unnatural
+exotic
+loaf
+town
+analyze
+bit
+hummingbird
+thunder
+flanders
+fireman
+top
+seashore
+possessive
+exclusive
+trucks
+strange
+protective
+various
+spandex
+courageous
+icy
+parsimonious
+nonstop
+hideous
+faithful
+cause
+
+Number of false negatives:
+0
+Number of false positives:
+75
+Probability of false positives:
+0.075

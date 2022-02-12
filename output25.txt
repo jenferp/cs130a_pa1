@@ -1,0 +1,215 @@
+Experiment for the values of:
+p = 0.4
+c = 3.65223
+d = 3.00206
+q = 57221
+Phase 1:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 2:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 3:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 4:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 5:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 6:
+Number of false negatives :
+0
+Number of false positives :
+2
+Probability of false positives :
+0.02
+False Positive Elements :
+squalid
+puny
+
+Phase 7:
+Number of false negatives :
+0
+Number of false positives :
+6
+Probability of false positives :
+0.06
+False Positive Elements :
+squalid
+puny
+quarter
+stop
+premium
+label
+mend
+assorted
+
+Phase 8:
+Number of false negatives :
+0
+Number of false positives :
+8
+Probability of false positives :
+0.08
+False Positive Elements :
+squalid
+puny
+quarter
+stop
+premium
+label
+mend
+assorted
+birds
+subsequent
+short
+street
+thinkable
+store
+basketball
+cover
+
+Phase 9:
+Number of false negatives :
+0
+Number of false positives :
+20
+Probability of false positives :
+0.2
+False Positive Elements :
+squalid
+puny
+quarter
+stop
+premium
+label
+mend
+assorted
+birds
+subsequent
+short
+street
+thinkable
+store
+basketball
+cover
+honey
+direful
+pig
+poised
+feeling
+old
+overflow
+past
+cats
+six
+agreement
+brave
+drink
+monkey
+physical
+groan
+determined
+eight
+sterile
+recognise
+
+Phase 10:
+Number of false negatives :
+0
+Number of false positives :
+16
+Probability of false positives :
+0.16
+False Positive Elements :
+squalid
+puny
+quarter
+stop
+premium
+label
+mend
+assorted
+birds
+subsequent
+short
+street
+thinkable
+store
+basketball
+cover
+honey
+direful
+pig
+poised
+feeling
+old
+overflow
+past
+cats
+six
+agreement
+brave
+drink
+monkey
+physical
+groan
+determined
+eight
+sterile
+recognise
+chubby
+one
+periodic
+blastoid
+mist
+spiffy
+popcorn
+boot
+phone
+hover
+thunder
+flanders
+destruction
+seashore
+frogs
+hideous
+
+Number of false negatives:
+0
+Number of false positives:
+52
+Probability of false positives:
+0.052

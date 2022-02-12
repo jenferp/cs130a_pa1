@@ -1,0 +1,165 @@
+Experiment for the values of:
+p = 0.4
+c = 9.11859
+d = 6.1754
+q = 171641
+Phase 1:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 2:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 3:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 4:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 5:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 6:
+Number of false negatives :
+0
+Number of false positives :
+1
+Probability of false positives :
+0.01
+False Positive Elements :
+cabbage
+
+Phase 7:
+Number of false negatives :
+0
+Number of false positives :
+1
+Probability of false positives :
+0.01
+False Positive Elements :
+cabbage
+moldy
+
+Phase 8:
+Number of false negatives :
+0
+Number of false positives :
+9
+Probability of false positives :
+0.09
+False Positive Elements :
+cabbage
+moldy
+crowded
+difficult
+oatmeal
+skip
+street
+weak
+light
+shrill
+general
+
+Phase 9:
+Number of false negatives :
+0
+Number of false positives :
+6
+Probability of false positives :
+0.06
+False Positive Elements :
+cabbage
+moldy
+crowded
+difficult
+oatmeal
+skip
+street
+weak
+light
+shrill
+general
+gifted
+past
+scratch
+poison
+physical
+utopian
+
+Phase 10:
+Number of false negatives :
+0
+Number of false positives :
+16
+Probability of false positives :
+0.16
+False Positive Elements :
+cabbage
+moldy
+crowded
+difficult
+oatmeal
+skip
+street
+weak
+light
+shrill
+general
+gifted
+past
+scratch
+poison
+physical
+utopian
+one
+worm
+popcorn
+delicate
+shelter
+puffy
+visitor
+shelf
+inherent
+loaf
+town
+aberrant
+acidic
+semaphore
+chief
+market
+
+Number of false negatives:
+0
+Number of false positives:
+33
+Probability of false positives:
+0.033

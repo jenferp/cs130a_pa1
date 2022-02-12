@@ -1,0 +1,425 @@
+Experiment for the values of:
+p = 0.4
+c = 9.93686
+d = 8.81571
+q = 171641
+Phase 1:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 2:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 3:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 4:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 5:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 6:
+Number of false negatives :
+0
+Number of false positives :
+6
+Probability of false positives :
+0.06
+False Positive Elements :
+spittle
+itch
+coast
+obtainable
+ugliest
+cream
+
+Phase 7:
+Number of false negatives :
+0
+Number of false positives :
+11
+Probability of false positives :
+0.11
+False Positive Elements :
+spittle
+itch
+coast
+obtainable
+ugliest
+cream
+false
+insect
+ruthless
+spiky
+label
+extra-small
+wriggle
+tablet
+smooth
+soak
+evasive
+
+Phase 8:
+Number of false negatives :
+0
+Number of false positives :
+31
+Probability of false positives :
+0.31
+False Positive Elements :
+spittle
+itch
+coast
+obtainable
+ugliest
+cream
+false
+insect
+ruthless
+spiky
+label
+extra-small
+wriggle
+tablet
+smooth
+soak
+evasive
+tray
+secretive
+scientific
+distribution
+difficult
+heron
+subsequent
+snails
+opposite
+undress
+short
+oatmeal
+holistic
+weather
+accept
+things
+stale
+camp
+squirrel
+makeshift
+prickly
+shaggy
+whistle
+overwrought
+women
+grumpy
+possess
+mix
+store
+cover
+daffy
+
+Phase 9:
+Number of false negatives :
+0
+Number of false positives :
+42
+Probability of false positives :
+0.42
+False Positive Elements :
+spittle
+itch
+coast
+obtainable
+ugliest
+cream
+false
+insect
+ruthless
+spiky
+label
+extra-small
+wriggle
+tablet
+smooth
+soak
+evasive
+tray
+secretive
+scientific
+distribution
+difficult
+heron
+subsequent
+snails
+opposite
+undress
+short
+oatmeal
+holistic
+weather
+accept
+things
+stale
+camp
+squirrel
+makeshift
+prickly
+shaggy
+whistle
+overwrought
+women
+grumpy
+possess
+mix
+store
+cover
+daffy
+please
+onerous
+honey
+unlock
+direful
+pig
+hurry
+bomb
+cayenne
+unkempt
+old
+announce
+bikes
+long-term
+refuse
+vanish
+overflow
+own
+design
+cats
+uppity
+scratch
+agreement
+brave
+bostonian
+drink
+turkey
+holiday
+ghost
+monkey
+sip
+clip
+cap
+ashamed
+worry
+practice
+pumped
+fish
+sterile
+recognise
+fragile
+condition
+
+Phase 10:
+Number of false negatives :
+0
+Number of false positives :
+73
+Probability of false positives :
+0.73
+False Positive Elements :
+spittle
+itch
+coast
+obtainable
+ugliest
+cream
+false
+insect
+ruthless
+spiky
+label
+extra-small
+wriggle
+tablet
+smooth
+soak
+evasive
+tray
+secretive
+scientific
+distribution
+difficult
+heron
+subsequent
+snails
+opposite
+undress
+short
+oatmeal
+holistic
+weather
+accept
+things
+stale
+camp
+squirrel
+makeshift
+prickly
+shaggy
+whistle
+overwrought
+women
+grumpy
+possess
+mix
+store
+cover
+daffy
+please
+onerous
+honey
+unlock
+direful
+pig
+hurry
+bomb
+cayenne
+unkempt
+old
+announce
+bikes
+long-term
+refuse
+vanish
+overflow
+own
+design
+cats
+uppity
+scratch
+agreement
+brave
+bostonian
+drink
+turkey
+holiday
+ghost
+monkey
+sip
+clip
+cap
+ashamed
+worry
+practice
+pumped
+fish
+sterile
+recognise
+fragile
+condition
+unhealthy
+cable
+join
+station
+tin
+one
+monitor
+pikachu
+noxious
+pass
+ready
+money
+rest
+yak
+worm
+judge
+mist
+mountainous
+knock
+painful
+spiffy
+obtain
+popcorn
+delicate
+boot
+shelter
+blind
+puffy
+phone
+serve
+visitor
+sassy
+inherent
+unnatural
+numerous
+town
+aberrant
+giant
+nose
+gravity
+breathe
+odd
+signal
+look
+thunder
+unadvised
+destruction
+female
+bottle
+seashore
+possessive
+exclusive
+humdrum
+trucks
+squeak
+strange
+governor
+lie
+acidic
+courageous
+chief
+market
+debonair
+nonstop
+frogs
+scribble
+agreeable
+health
+hideous
+sleepy
+heady
+cause
+plausible
+
+Number of false negatives:
+0
+Number of false positives:
+163
+Probability of false positives:
+0.163

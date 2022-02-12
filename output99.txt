@@ -1,0 +1,206 @@
+Experiment for the values of:
+p = 0.4
+c = 8.2172
+d = 6.46847
+q = 152597
+Phase 1:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 2:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 3:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 4:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 5:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 6:
+Number of false negatives :
+0
+Number of false positives :
+0
+Probability of false positives :
+0
+False Positive Elements :
+
+Phase 7:
+Number of false negatives :
+0
+Number of false positives :
+5
+Probability of false positives :
+0.05
+False Positive Elements :
+queue
+flippant
+smooth
+solaris
+bright
+
+Phase 8:
+Number of false negatives :
+0
+Number of false positives :
+6
+Probability of false positives :
+0.06
+False Positive Elements :
+queue
+flippant
+smooth
+solaris
+bright
+skip
+things
+stale
+light
+foot
+impolite
+
+Phase 9:
+Number of false negatives :
+0
+Number of false positives :
+17
+Probability of false positives :
+0.17
+False Positive Elements :
+queue
+flippant
+smooth
+solaris
+bright
+skip
+things
+stale
+light
+foot
+impolite
+clean
+bomb
+cayenne
+nerve
+damage
+cautious
+sail
+holiday
+ghost
+clip
+cap
+famous
+eight
+sterile
+curved
+utopian
+adjustment
+
+Phase 10:
+Number of false negatives :
+0
+Number of false positives :
+33
+Probability of false positives :
+0.33
+False Positive Elements :
+queue
+flippant
+smooth
+solaris
+bright
+skip
+things
+stale
+light
+foot
+impolite
+clean
+bomb
+cayenne
+nerve
+damage
+cautious
+sail
+holiday
+ghost
+clip
+cap
+famous
+eight
+sterile
+curved
+utopian
+adjustment
+tin
+one
+pikachu
+charmander
+numberless
+worm
+judge
+knock
+obtain
+popcorn
+phone
+serve
+hover
+sassy
+shelf
+inherent
+unnatural
+numerous
+giant
+bit
+thunder
+flanders
+top
+exclusive
+squeak
+lie
+acidic
+various
+spandex
+courageous
+icy
+frogs
+cause
+
+Number of false negatives:
+0
+Number of false positives:
+61
+Probability of false positives:
+0.061
